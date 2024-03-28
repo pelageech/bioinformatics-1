@@ -1,11 +1,11 @@
 ########################################
 # Program: needle
-# Rundate: Wed 27 Mar 2024 14:25:16
+# Rundate: Thu 28 Mar 2024 06:24:51
 # Commandline: needle
 #    -auto
 #    -stdout
-#    -asequence emboss_needle-I20240327-142505-0538-30119620-p1m.asequence
-#    -bsequence emboss_needle-I20240327-142505-0538-30119620-p1m.bsequence
+#    -asequence emboss_needle-I20240328-062430-0429-70249375-p1m.asequence
+#    -bsequence emboss_needle-I20240328-062430-0429-70249375-p1m.bsequence
 #    -datafile EDNAFULL
 #    -gapopen 10.0
 #    -gapextend 0.5

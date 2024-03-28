@@ -1,11 +1,11 @@
 ########################################
 # Program: water
-# Rundate: Wed 27 Mar 2024 14:23:11
+# Rundate: Thu 28 Mar 2024 06:27:03
 # Commandline: water
 #    -auto
 #    -stdout
-#    -asequence emboss_water-I20240327-142256-0323-91933938-p1m.asequence
-#    -bsequence emboss_water-I20240327-142256-0323-91933938-p1m.bsequence
+#    -asequence emboss_water-I20240328-062631-0076-31108198-p1m.asequence
+#    -bsequence emboss_water-I20240328-062631-0076-31108198-p1m.bsequence
 #    -datafile EDNAFULL
 #    -gapopen 10.0
 #    -gapextend 0.5
