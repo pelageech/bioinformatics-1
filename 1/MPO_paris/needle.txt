@@ -1,0 +1,1089 @@
+########################################
+# Program: needle
+# Rundate: Sat 30 Mar 2024 04:31:35
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20240330-043057-0448-45614585-p1m.asequence
+#    -bsequence emboss_needle-I20240330-043057-0448-45614585-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: c58280935-58269855
+# 2: 87684610-87695238
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 13091
+# Identity:    6897/13091 (52.7%)
+# Similarity:  6897/13091 (52.7%)
+# Gaps:        4472/13091 (34.2%)
+# Score: 19795.0
+# 
+#
+#=======================================
+
+c58280935-582      1 --------------------------------------------------      0
+                                                                       
+87684610-8769      1 ATAACTTCTCAGCTTTAGCTCCCTGAATTTTGGTTCTTTCAAAGGATTTG     50
+
+c58280935-582      1 --------------------------------------------------      0
+                                                                       
+87684610-8769     51 GGACACTCAGTTTAACCAACACTTTGAGGGGCTGGTTGTTTGTGCTCTCC    100
+
+c58280935-582      1 --------------------------------------------------      0
+                                                                       
+87684610-8769    101 GGGAGAAGCTCTGATCCATTCCTTTGTCCACCCCTCCTTCTTCATAGACC    150
+
+c58280935-582      1 --------------------------------------------------      0
+                                                                       
+87684610-8769    151 CCTTTCTGTGCACCCCTAACCCCAGTGGGGGAGGAGAGTCTAGTCTTGGG    200
+
+c58280935-582      1 --------------------------------------------------      0
+                                                                       
+87684610-8769    201 ATAGGTCCATCTCTTTTTAGGTCAGCCCGCCCCCAGCTTTTACACCCCAG    250
+
+c58280935-582      1 -------------------------------GACAATATCAGGTGAGCTG     19
+                                                    ||||.|.||||||.||..|
+87684610-8769    251 GCATAAAAACCCGTTGTCAGTGAGAGGAGTTGACAGTGTCAGGTAAGTGG    300
+
+c58280935-582     20 TGGAGGTGGGGTCCTTGGAAGCTGGATGACAGCAGCTGGCAAGGGGATAA     69
+                     ||.||.||.|.| |||||...|||| .|||...||||||           
+87684610-8769    301 TGAAGTTGAGCT-CTTGGGGACTGG-GGACTATAGCTGG-----------    337
+
+c58280935-582     70 GAGAGCAGTGAGCCCCTCCCTCAAGGAGGTC-TGGCTT-------TATCC    111
+                                            |||.|||| |||.||       |.|.|
+87684610-8769    338 -----------------------AGGGGGTCTTGGGTTGTACACCTCTTC    364
+
+c58280935-582    112 ATAGACAGGGCCCTCTGAGGTGGGGCTGAGGTACAA----------AGGG    151
+                     ||||||..|||||.||..|||.|||||| .|||.||          ||||
+87684610-8769    365 ATAGACCAGGCCCACTAGGGTAGGGCTG-TGTATAAAGGGGAGAGGAGGG    413
+
+c58280935-582    152 GGATTGAGCAGCCCAGGAGAAGA---------------------------    174
+                     ||.|||.|      |||||.|||                           
+87684610-8769    414 GGCTTGGG------AGGAGGAGAATTGTAAAACCTCTCTTTTTTCAAAAG    457
+
+c58280935-582    175 ---------------GAGATGGGG-----GTTCCCTTCTTCTCTT-----    199
+                                    |||.||.||     ||    ||.||.||||     
+87684610-8769    458 CTCTGGATACTTCCTGAGCTGAGGTTTTTGT----TTTTTGTCTTGTTTT    503
+
+c58280935-582    200 --------------------------------------------------    199
+                                                                       
+87684610-8769    504 GTTTTGTTTTGTTTTGTTTTGTTTTGTTTTGTTTTGTTTTGTTTTGTTTT    553
+
+c58280935-582    200 --------------------------------------------------    199
+                                                                       
+87684610-8769    554 TTTAAAGGTTTATTTATTTATTATATGTAAGTACACTGCAGCTGTCCTTA    603
+
+c58280935-582    200 ----CTC------------TCAGAT--------GCATGG-----------    214
+                         |||            ||||||        |.||||           
+87684610-8769    604 GATACTCCAGAAGAGAGCATCAGATTTTGTTACGGATGGTTGTGAGCCAC    653
+
+c58280935-582    215 ------------------TGGACTTAGGACCTTGCTGG-------GCTGG    239
+                                       ||.|||..|||||||  |||       |..||
+87684610-8769    654 CATGTGGTTGCTGGGATTTGAACTCGGGACCTT--TGGAAGAGCAGTCGG    701
+
+c58280935-582    240 GGGTCT----CAC----------------------------------TGC    251
+                     .|.|||    |||                                  |||
+87684610-8769    702 CGCTCTTAACCACTGAGCAATCTCCCCAGCCCCCTTGTTTTTTGTCTTGC    751
+
+c58280935-582    252 AGAGATGAAGCTGCTTCTGGCCCTAGCAGGGCTCCTGGCCATTCTGGCCA    301
+                     ||||||||||||.||..|||||.|.|||||.|||||||||..||||||||
+87684610-8769    752 AGAGATGAAGCTACTCTTGGCCTTGGCAGGCCTCCTGGCCCCTCTGGCCA    801
+
+c58280935-582    302 CGCCCCAGCCCTCTGAAGGTGCTGCTCCAGGTAACAGTTCC-CAAGGTGG    350
+                     .||..|||.||||..|.|||||..|.||||||.|.|||.|| .||||.||
+87684610-8769    802 TGCTTCAGACCTCCAATGGTGCCACCCCAGGTGATAGTGCCAAAAGGAGG    851
+
+c58280935-582    351 GAGAA------GATGGTGTGTTGGGGTGGTTGTGTTCCAGAGACCCCTTT    394
+                     |.|.|      |||.|.|.||.||||     |||     |.||      |
+87684610-8769    852 GTGGACTAAGGGATTGGGGGTAGGGG-----GTG-----GGGA------T    885
+
+c58280935-582    395 TCTCAG---AGC-------------------AGGCCTTCC-TAGCTCTGG    421
+                     ||||||   |||                   ||| ||||| |.|||.|||
+87684610-8769    886 TCTCAGCCCAGCATCTCCCCTTCCCCTGGATAGG-CTTCCTTTGCTTTGG    934
+
+c58280935-582    422 GGCCTGA--TAGGGGGTTGGGGCCCATTCCTGACTTTGTGATCCCTGCTC    469
+                     |||||||  |||||..|||||| |||..||||||.||.||||...|||||
+87684610-8769    935 GGCCTGATGTAGGGCTTTGGGG-CCAGCCCTGACCTTATGATTTATGCTC    983
+
+c58280935-582    470 TGGGCAGCTGTCCTGGGGGAGGTGGACACCTC-GTTGGTGCTGAGCTCCA    518
+                     |||||||||.||||||||||.|||||.|..|| ||| ||||||||||..|
+87684610-8769    984 TGGGCAGCTCTCCTGGGGGAAGTGGAGAATTCAGTT-GTGCTGAGCTGTA   1032
+
+c58280935-582    519 TGGAGGAGGCCAAGCAGCTGGTGGACAAGGCCTACAAGGAGCGGCGGGAA    568
+                     ||||.||||||||||||||.|||||||..|||||||||||||||.|.|||
+87684610-8769   1033 TGGAAGAGGCCAAGCAGCTAGTGGACAGAGCCTACAAGGAGCGGAGAGAA   1082
+
+c58280935-582    569 AGGTG-GGGCACGAGGCACTGCCCAGCTCTGGGCAAGGATGTCCCAGGCC    617
+                     ||||| |||..|.||||.|||....||.||||||||...||...||.|.|
+87684610-8769   1083 AGGTGAGGGTGCCAGGCCCTGTGTGGCCCTGGGCAAAACTGCTTCAAGTC   1132
+
+c58280935-582    618 TTTCAGAGAAGCAGCAGGCAGCAGGGAGCTTGAAGGTGGG----AGAGGG    663
+                     ||...|||||...|||..|||..|||     |.|||.|||    |||..|
+87684610-8769   1133 TTCTGGAGAAAGGGCACACAGTGGGG-----GGAGGGGGGTTGTAGAAAG   1177
+
+c58280935-582    664 GGACTATGGGGACC--CATGTGGACTC---CCTTTCTGTCTGTCTGTCCC    708
+                     |    |||.||.||  ||.|||.|.||   |||   .|||||.||.|.|.
+87684610-8769   1178 G----ATGAGGGCCTACAGGTGAAATCGTACCT---GGTCTGCCTCTACT   1220
+
+c58280935-582    709 TGTGTTTCTGGATGGGAGAACAGCTTAAAAGCCATCCTTCCCAAAGCCTT    758
+                     ||.||||||||.||..||||||.|||.|..|              |||||
+87684610-8769   1221 TGAGTTTCTGGCTGTCAGAACATCTTCAGTG--------------GCCTT   1256
+
+c58280935-582    759 GC-CTCTGTCTGGACACCCAGGTCCATATCCTTTTTATAAAAGGAA-GCC    806
+                     || .||||||||||||.||||||||||.|||||||.|.|||||.|| ||.
+87684610-8769   1257 GCTTTCTGTCTGGACATCCAGGTCCATGTCCTTTTGACAAAAGAAATGCA   1306
+
+c58280935-582    807 TTCCTCCCACCCGTGGGCCTGCCTGCATGGTCCTGCATGTCTGC---CCC    853
+                     .|.||||  .||||||..||  ||.||..||.||...||.||||   ||.
+87684610-8769   1307 CTGCTCC--TCCGTGGTTCT--CTCCAGAGTTCTTTCTGCCTGCTCACCG   1352
+
+c58280935-582    854 TGGGCTGGGGCTCTGCTGGGTGGGTCTGTAT--CCCTTCTCTGGCCCTCA    901
+                     ..|||| ||.||.|||||.||  ||||.|||  |||||||||||||||| 
+87684610-8769   1353 CAGGCT-GGCCTTTGCTGAGT--GTCTCTATCCCCCTTCTCTGGCCCTC-   1398
+
+c58280935-582    902 CTCCTCCTT-TCTCCAAGCAGCATCAAGCAGCGGCTTCGCAGCGGCTCAG    950
+                          |||| |||  ||.|||||||||||.|.|.||.|..||||||||.|
+87684610-8769   1399 -----CCTTGTCT--AAACAGCATCAAGCGGAGCCTCCAAAGCGGCTCTG   1441
+
+c58280935-582    951 CCAGCCCCATGGAACTCCTATCCTACTTCAAGCAGCCGGTGGCAGCCACC   1000
+                     |||||||||.|||.|||||.|..||||||||||||||||||||.|.||||
+87684610-8769   1442 CCAGCCCCACGGAGCTCCTGTTTTACTTCAAGCAGCCGGTGGCGGGCACC   1491
+
+c58280935-582   1001 AGGACGGCGGTGAGGGCCGCTGACTACCTGCACGTGGCTCTAGACCTGCT   1050
+                     ||.||.||.||||||||||||||.||.||.||.|||||.|||||||||||
+87684610-8769   1492 AGAACAGCTGTGAGGGCCGCTGATTATCTACATGTGGCCCTAGACCTGCT   1541
+
+c58280935-582   1051 GGAGAGGAAGCTGCGGTCCCTGTGGCGAAGGCCATTCAATGTCACTGGTA   1100
+                     |.||||||||||||.|.|||||||||.||||||.||||||||.||.||||
+87684610-8769   1542 GAAGAGGAAGCTGCAGCCCCTGTGGCCAAGGCCTTTCAATGTTACAGGTA   1591
+
+c58280935-582   1101 CTGT-----------TGC--CCA--TCACACCCCA---------------   1120
+                     ||.|           |||  |||  || |||||||               
+87684610-8769   1592 CTCTAACTCCTTTTGTGCTACCACCTC-CACCCCAAGCAACTTCTGTCTC   1640
+
+c58280935-582   1121 ------------------------------------GGTCCCTGCTCC--   1132
+                                                         ||||.||.|.||  
+87684610-8769   1641 CAAGCCTCCATTCAAGGCAGTGGTTCTTAACCTGTGGGTCGCTACCCCTT   1690
+
+c58280935-582   1133 --------ACTAGTGAC-------------TCCTCCTAGGGAC-------   1154
+                             .|.||||||             |||.|||| .|||       
+87684610-8769   1691 CGGGTACGTCAAGTGACCCTCTCACATGGGTCCACCTA-AGACCATAGGA   1739
+
+c58280935-582   1155 ---CCCAGCCGTC----------------TCTCAG---------------   1170
+                        |.|||  |||                ||||||               
+87684610-8769   1740 AAACACAG--GTCTTAACATTATGATTCATCTCAGTAGCAAAATTACAGT   1787
+
+c58280935-582   1171 ----------------------------TGATCCCCTC------AACT--   1184
+                                                 ||.||.||.|      ||||  
+87684610-8769   1788 TATGAAGTAGCAAGTAATTTTATAGTTCTGTTCACCCCATGAGAAACTGG   1837
+
+c58280935-582   1185 ---------TCTTCCTC--CA-----------GGGA-------GTCTCAG   1205
+                              |||  |||  ||           |.||       ||||.||
+87684610-8769   1838 CTTAAGGGGTCT--CTCAGCATTAGCAAACTTGAGAACCACTGGTCTAAG   1885
+
+c58280935-582   1206 GAGTCTC--------------------------------------CAGGG   1217
+                     |||||||                                      |.|||
+87684610-8769   1886 GAGTCTCGGGGCCTCTGAGCTGGCCCACCCCCCTCCTCACCCTCACTGGG   1935
+
+c58280935-582   1218 CTCCTCAGCCTCAGGTTGCCTGGGATAGGAAGTGAGGCGG----------   1257
+                     ||.|||||||.||||||||||.|.|||||||.|||||.||          
+87684610-8769   1936 CTACTCAGCCCCAGGTTGCCTAGCATAGGAAATGAGGTGGGGGAAGGCTC   1985
+
+c58280935-582   1258 ----CTCAGCTCCCCCATTG----TTCTTTCCCCCGGCAGATGTGCTGAC   1299
+                         ||.||.|    |||.|    .||||       |||||||||.||||
+87684610-8769   1986 GGATCTAAGAT----CATGGCTCACTCTT-------GCAGATGTGTTGAC   2024
+
+c58280935-582   1300 GCCCGCCCAGCTGAATGTGTTGTCCAAGTCAAGCGGCTGCGCCTACCAGG   1349
+                     .||.||.|||||||||.||||||||..||||||.|||||.|||||.||||
+87684610-8769   2025 ACCTGCTCAGCTGAATCTGTTGTCCGTGTCAAGTGGCTGTGCCTATCAGG   2074
+
+c58280935-582   1350 ACGTGGGGGTGACTTGCCCGGAGCAGGACAAATACCGCACCATCACCGGG   1399
+                     |||||.|||||||.|||||...|.|.|||||.||.|||||||||||.||.
+87684610-8769   2075 ACGTGAGGGTGACATGCCCACCGAATGACAAGTATCGCACCATCACTGGA   2124
+
+c58280935-582   1400 ATGTGCAACAACAGGTGCGG---CTGG------CTGG---GGGTGGCTGC   1437
+                     ...||||||||||||||.||   |.||      |.||   |.|||| ||.
+87684610-8769   2125 CACTGCAACAACAGGTGTGGGCCCAGGGCAGTTCAGGGTTGTGTGG-TGT   2173
+
+c58280935-582   1438 AGGAACCGGG-CTCAGAGAGG-CGTCCCGGACGCCACAAGCCTCCC---G   1482
+                     |||    ||| ||     ||| |.|.||.|..||.|       |||   |
+87684610-8769   2174 AGG----GGGTCT-----AGGTCTTGCCTGTGGCGA-------CCCATTG   2207
+
+c58280935-582   1483 GTGTCAGCGCCCTGTCCTCCCCTGCAGACGCAGCCCCACGCTGGGGGCCT   1532
+                     | |.|||.||.||||.||.||||..|||||.||||||||.||||||||||
+87684610-8769   2208 G-GCCAGAGCTCTGTGCTTCCCTCTAGACGAAGCCCCACTCTGGGGGCCT   2256
+
+c58280935-582   1533 CCAACCGTGCCTTTGTGCGCTGGCTGCCGGCGGAGTATGAGGACGGCTTC   1582
+                     ||||||||||||||||.||||||.||||.||.||||||||.||.|||.||
+87684610-8769   2257 CCAACCGTGCCTTTGTACGCTGGTTGCCTGCAGAGTATGAAGATGGCGTC   2306
+
+c58280935-582   1583 TCTCTTCCCTACGGCTGGACGCCCGGGGTCAAGCGCAACGGCTTCCCGGT   1632
+                     ||..|.||||..|||||||||||.||.|||||.|||||.||||||..|||
+87684610-8769   2307 TCCATGCCCTTTGGCTGGACGCCTGGAGTCAATCGCAATGGCTTCAAGGT   2356
+
+c58280935-582   1633 GGCTCTGGTGAGCG-CCGGCGGGCAGAGGG-GGCGAGGCCCGGCCACGC-   1679
+                     |.|.||||||||.| ||    .|.|||||| ||.|| ||||.||.|.|| 
+87684610-8769   2357 GCCCCTGGTGAGTGTCC----AGTAGAGGGAGGTGA-GCCCAGCTAAGCT   2401
+
+c58280935-582   1680 --GGTGCGCGGACCCAGGC-GCCAGCTGATCTCCGTG----TCCCGCAGG   1722
+                       .|||| .|||||.|||| .||| .||| |||| ||    |.|.|||||
+87684610-8769   2402 TATGTGC-AGGACCTAGGCATCCA-ATGA-CTCC-TGTTGTTGCTGCAGG   2447
+
+c58280935-582   1723 CTCGCGCGGTCTCCAACGAGATCGTGCGCTTCCCCACTGATCAGCTGACT   1772
+                     |||||..|||||||||.|..||||||||||||||||..|||||||||||.
+87684610-8769   2448 CTCGCCAGGTCTCCAATGCCATCGTGCGCTTCCCCAACGATCAGCTGACC   2497
+
+c58280935-582   1773 CCGGACCAGGAGCGCTCACTCATGTTCATGCAATGGGGCCAGCTGTTGGA   1822
+                     ..||||||||||||..||||||||||||||||.|||||.|||.|..||||
+87684610-8769   2498 AAGGACCAGGAGCGTGCACTCATGTTCATGCAGTGGGGACAGTTTCTGGA   2547
+
+c58280935-582   1823 CCACGACCTCGACTTCACCCCTGAGCCGGCCGCCCGGGCCTCCTTCGTCA   1872
+                     .||.||..||..|||.||.||.|||||.||..|||||..|||||||.|||
+87684610-8769   2548 TCATGATATCACCTTGACTCCAGAGCCAGCTACCCGGTTCTCCTTCTTCA   2597
+
+c58280935-582   1873 CTGGCGTCAACTGCGAGACCAGCTGCGTTCAGCAGCCGCCCTGCTTCCCG   1922
+                     |||||.||||||||||||||||||||.|.||||||||.|||||||||||.
+87684610-8769   2598 CTGGCCTCAACTGCGAGACCAGCTGCCTGCAGCAGCCACCCTGCTTCCCC   2647
+
+c58280935-582   1923 CTCAAGGTGGC--CCTGCTTCCCGCC--CACTGCCTGGGTTGG--GAGAG   1966
+                     |||||||| ||  |||.|||||..||  ||..|.|||.||..|  |||||
+87684610-8769   2648 CTCAAGGT-GCTGCCTCCTTCCATCCATCAGGGTCTGTGTCTGAAGAGAG   2696
+
+c58280935-582   1967 GGGAGATTGTTT------CTGGAAGGGGCCATCTCCCTTCTGTG-CCCAG   2009
+                     ||.||||.||||      .| ||.||.||     ||||||||.| ||.||
+87684610-8769   2697 GGAAGATGGTTTACATTAGT-GACGGCGC-----CCCTTCTGAGTCCTAG   2740
+
+c58280935-582   2010 GTTTCCTTTCCCAGACGCTGAGGAAGGCTGGCCCTGCCTCCCTTGTGTCC   2059
+                     |  ||||.| |.||.|.|||||.|||.||||.|||..||||  ||.|.||
+87684610-8769   2741 G--TCCTCT-CTAGCCCCTGAGCAAGACTGGTCCTCGCTCC--TGGGCCC   2785
+
+c58280935-582   2060 ACAGCACTGGCTGCTCAGCTATGACCTGTCTCCTTCCTGCGCCTGGGCTC   2109
+                     |.||          |||   || ||.||.|||         |||..||..
+87684610-8769   2786 AGAG----------TCA---AT-ACTTGGCTC---------CCTCAGCAG   2812
+
+c58280935-582   2110 AGCCAGCTGGCAGC-CAGGG---CCGTCCATTTGCTCACTG-------CC   2148
+                     |||||||||.||.| ||.||   |.|   ||.|||.|.|||       ||
+87684610-8769   2813 AGCCAGCTGTCAACTCAAGGAACCTG---ATATGCACCCTGATATGCACC   2859
+
+c58280935-582   2149 TCTGGCAGGCCAAGGGAGAGAGGGTTGTTCCTCCTTGGCTGACAGGAGTC   2198
+                      |||       ||...||               |.|.|||          
+87684610-8769   2860 -CTG-------AACTTAG---------------CATCGCT----------   2876
+
+c58280935-582   2199 CTGT-TGGTGGAATCACTGGCTCTTTGTTAGGTTGGGAGAGGGTTCTGGG   2247
+                     |||| ||||||..|.|||||.|||||||.|||.|||||||  .|||||||
+87684610-8769   2877 CTGTGTGGTGGGGTGACTGGTTCTTTGTGAGGCTGGGAGA--ATTCTGGG   2924
+
+c58280935-582   2248 AGGA------GAC----CTTC-TCAGTGCCCCCCAAGCCTCCATGCTCAG   2286
+                     |.||      |||    |||| ||| |.|.|||.|.|  |.||.||.|.|
+87684610-8769   2925 ATGAGGATCTGACTTGTCTTCTTCA-TACTCCCAATG--TACAGGCACTG   2971
+
+c58280935-582   2287 TCCTGTT-TC-----CGCCCCACTGAGAGGGCAGCCCCAACCC-CCATCA   2329
+                     .|||||| ||     |.|.||.||..|.|.||..|||.||||| .|.|||
+87684610-8769   2972 GCCTGTTCTCACTCTCTCTCCCCTATGGGCGCTCCCCTAACCCTGCTTCA   3021
+
+c58280935-582   2330 CACAGAAAGAGAGAGCCTGGGGGTCTG-GTGGGTG---CCGTG--GGACA   2373
+                     |      ||.|.|.|..||.|.||.|| |||.|||   ||.||  ..|||
+87684610-8769   3022 C------AGTGTGTGTGTGTGTGTGTGTGTGTGTGTAACCCTGCTTCACA   3065
+
+c58280935-582   2374 GGGCTGGGAGTG--------------------------------------   2385
+                     |.| ||.|.|||                                      
+87684610-8769   3066 GTG-TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG   3114
+
+c58280935-582   2386 --------------------------GGCAGGGT---GGTCGAGGCA-CT   2405
+                                               |.||||||   |||.||.||| ||
+87684610-8769   3115 TGTGTGTGTGTTTGGGTTGCCCCATAGTCAGGGTCAGGGTTGAAGCACCT   3164
+
+c58280935-582   2406 GCTGAGTAGGG----AAG-GAGGAG-GAGAGAAAGG-AGAGAGCGCCTGA   2448
+                     .|||.||||||    ||| |.|||| .|.||||||| |||||        
+87684610-8769   3165 TCTGTGTAGGGGGGAAAGTGTGGAGAAAAAGAAAGGCAGAGA--------   3206
+
+c58280935-582   2449 GAGAGGGAGAGACA--GACAGGAGAATGTCAGGGCCAGAGGGAGAGCAGG   2496
+                      ..|.|||||.|.|  |.||||.|..||.|||||||||.|.||       
+87684610-8769   3207 -TTAAGGAGATAAAGGGCCAGGGGTCTGACAGGGCCAGGGTGA-------   3248
+
+c58280935-582   2497 CACAGCAGAGAG---AAGGGGAGAGAGACGGGC-----GACGCTT-----   2533
+                     ||.|.|||||||   ||||   .|||.||.|||     ||.|.||     
+87684610-8769   3249 CAGAACAGAGAGGAAAAGG---CAGACACAGGCAAGAAGAGGATTAAGAG   3295
+
+c58280935-582   2534 ---TAGTGAGGAGGGATCCGAGGCCTGGCGGTGCCCAGACCCAG--GGGT   2578
+                        ||||||.|||||.|||.||   ||||..||||||..|||||  ||.|
+87684610-8769   3296 GCATAGTGAAGAGGGGTCCAAG---TGGCCTTGCCCAACCCCAGAAGGCT   3342
+
+c58280935-582   2579 -TGCCCAGGTTCCCAGTTCAGTG--TTC--TGCTCA---TTAACCCTGCA   2620
+                      |..|||   |.|||||||||||  |||  || |||   ||||      |
+87684610-8769   3343 CTCTCCA---TTCCAGTTCAGTGAATTCTTTG-TCACCCTTAA------A   3382
+
+c58280935-582   2621 CCTCAGAGGCTGTTGCTGATGGCGCCCTAGGCAG--------CGATCCCT   2662
+                     ||||||...|| |||||||..|.||||    |||        .||..|||
+87684610-8769   3383 CCTCAGTCTCT-TTGCTGACTGAGCCC----CAGTATTTCTATGAAACCT   3427
+
+c58280935-582   2663 TTCGGGCCTCCGGAG-GCCTCTCTGCAGGTTGAGGGTACCAGAGGTC---   2708
+                     |           ||| ||.||.||||||.|.|||||..||||||.||   
+87684610-8769   3428 T-----------GAGAGCTTCCCTGCAGCTCGAGGGGGCCAGAGTTCTCT   3466
+
+c58280935-582   2709 -CTGAGGGCAGGGGG--AGATCCAGTTCTGCCTGGGCACCT-TCCTTGCC   2754
+                      ||    ||||||.|  ||.|.||  ..||||.|     || |||...||
+87684610-8769   3467 TCT----GCAGGGTGTAAGTTACA--AATGCCCG-----CTCTCCCGACC   3505
+
+c58280935-582   2755 CTCGGTGAGCCAGTCTAGCCTCTCTCTGTGCCTCAGATCCCGCCCAATGA   2804
+                     |.| ...||||||.|||||.|||||||||||...|||||||.||||||||
+87684610-8769   3506 CAC-AAAAGCCAGCCTAGCTTCTCTCTGTGCTGTAGATCCCACCCAATGA   3554
+
+c58280935-582   2805 CCCCCGCATCAAGAACCAAGCCGACTGCATCCCGTTCTTCCGCTCCTGCC   2854
+                     |||.||.||||||||||||...|||||||||||.||||||||||||||||
+87684610-8769   3555 CCCTCGAATCAAGAACCAAAAGGACTGCATCCCCTTCTTCCGCTCCTGCC   3604
+
+c58280935-582   2855 CGGCTTGCCCCGGGAGCAACATCACCATCCGCAACCAGATCAACGCGCTC   2904
+                     ||||.|||.||.|||.||||||||||||.|||||||||||||||||||||
+87684610-8769   3605 CGGCATGCACCAGGAACAACATCACCATTCGCAACCAGATCAACGCGCTC   3654
+
+c58280935-582   2905 ACTTCCTTCGTGGACGCCAGCATGGTGTACGGCAGCGAGGAGCCCCTGGC   2954
+                     |||||||||||||||||||||..||||||||||||||||||.|||||.||
+87684610-8769   3655 ACTTCCTTCGTGGACGCCAGCGGGGTGTACGGCAGCGAGGACCCCCTAGC   3704
+
+c58280935-582   2955 CAGGAACCTGCGCAACATGTCCAACCAGCTGGGGCTGCTGGCCGTCAA-C   3003
+                     |||.||.|||||||||.|..||||||||||||||||||||||..|||| .
+87684610-8769   3705 CAGAAAGCTGCGCAACCTCACCAACCAGCTGGGGCTGCTGGCTATCAATA   3754
+
+c58280935-582   3004 CAGCGCTTCCAAGACAACGGCCGGGCCCTGCTGCCCTTTGACAACCTGCA   3053
+                     || ||||||||||||||.|||.||||||||.||||||||||||.||||||
+87684610-8769   3755 CA-CGCTTCCAAGACAATGGCAGGGCCCTGATGCCCTTTGACAGCCTGCA   3803
+
+c58280935-582   3054 CGATGACCCCTGTCTCCTCACCAACCGCTCAGCGCGCATCCCCTGCTTCC   3103
+                     ||||||||||||.|||||||||||||||||.||.|||||.||.||.||.|
+87684610-8769   3804 CGATGACCCCTGCCTCCTCACCAACCGCTCCGCCCGCATTCCTTGTTTTC   3853
+
+c58280935-582   3104 TGGCAGGTCAGCTTTGGGGTGGGGACCAGAGGTGGCATAGGAGATGTTCC   3153
+                     |||||||||||| ..||||...|.||.||| |||||||| |||.||||.|
+87684610-8769   3854 TGGCAGGTCAGC-CCGGGGACTGAACTAGA-GTGGCATA-GAGCTGTTTC   3900
+
+c58280935-582   3154 CTG-TTG-GAG-CCACAGTGAGTCTGTTTGTGAGCAGCTTGTGGGTTTGT   3200
+                     |.| ||| ||| .|||    ||.||||.||||||||.|.||.|||.||||
+87684610-8769   3901 CAGCTTGTGAGAACAC----AGCCTGTATGTGAGCAACATGCGGGCTTGT   3946
+
+c58280935-582   3201 ACTTAGAGAGACTGTCCTCACCAGCCATTACTATCAACTTCATGATATTA   3250
+                     ..|.|||||..|||..||||.||      |||             |||||
+87684610-8769   3947 GATAAGAGATGCTGGTCTCAACA------ACT-------------TATTA   3977
+
+c58280935-582   3251 ATCCAGTTGCCTTGGTAACAAGTCAGATGGAGCCAGAAA----------A   3290
+                     .||.|||||||||||||||.|||..|||||||.||||||          |
+87684610-8769   3978 GTCTAGTTGCCTTGGTAACGAGTTGGATGGAGACAGAAAGGAAAATAACA   4027
+
+c58280935-582   3291 GCAGAAAAGCAAACAACCT--------------------CTCCAACCCT-   3319
+                     ||| ||||.|||||.||.|                    |||||.||.| 
+87684610-8769   4028 GCA-AAAATCAAACCACATAAGCATACAAAAAAAAAATCCTCCATCCATC   4076
+
+c58280935-582   3320 -----AAGATGGAGACCCAGGCATGGCTGAGGAGCCTCTGTCCATCAGTC   3364
+                          |||||||||.|.||||..| |||.||||.|||||.| .||...||
+87684610-8769   4077 AACTGAAGATGGAGTCACAGGGCT-GCTAAGGACCCTCTAT-TATTGATC   4124
+
+c58280935-582   3365 CATTGCTTTCTCTGTCCCTTTTTTCCCT--TCTGGACTCTGGAAGACAAG   3412
+                     ||  ||||||||||||    ||.|||||  |.||||||.|||||.|..||
+87684610-8769   4125 CA--GCTTTCTCTGTC----TTCTCCCTCCTGTGGACTGTGGAAAAAGAG   4168
+
+c58280935-582   3413 AGAGTCAAATC-----CCTC-AGGGGCAGGGAACTAAA--GGACAGAGAA   3454
+                     ||||.|||.||     ||.| ||||.|||.||||||||  .||||||||.
+87684610-8769   4169 AGAGCCAAGTCTATGTCCACAAGGGACAGAGAACTAAAAGTGACAGAGAG   4218
+
+c58280935-582   3455 CGCTGTGGTGCCCTCACCCTCTAGAGCGACACTATCCAATGTGGTAGCCA   3504
+                     ...|.|||...|||||||.|.||||.|.|..||.||||||.||| |||.|
+87684610-8769   4219 GAATATGGCATCCTCACCTTTTAGAACCATCCTGTCCAATCTGG-AGCTA   4267
+
+c58280935-582   3505 CTAGCTGCATGTGGCTATTTTAATTTTAGTT-------------------   3535
+                     .||||..|||||||.|||||.|||||.|.||                   
+87684610-8769   4268 GTAGCCACATGTGGTTATTTCAATTTAAATTCTTTGTAGCAGGGAGTACT   4317
+
+c58280935-582   3536 --------------------------------------------------   3535
+                                                                       
+87684610-8769   4318 GGCTCACACCTTTAATCCCAGTCTTTGGGAGGTAGAGGCATGAGGCTCTT   4367
+
+c58280935-582   3536 --------------------------------------------------   3535
+                                                                       
+87684610-8769   4368 AGTGAGAATTCAAGGCCAGCCTGGTCTACAGAGTGAGTTCTAGGACAGCC   4417
+
+c58280935-582   3536 --------------------------------------------------   3535
+                                                                       
+87684610-8769   4418 AGGGCTATAGAGTGATAGTGAGACCCTGTCTTGAAAGAAGAAGAAGAAGA   4467
+
+c58280935-582   3536 --------------------------------------------------   3535
+                                                                       
+87684610-8769   4468 AGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAG   4517
+
+c58280935-582   3536 --------------------------------------------------   3535
+                                                                       
+87684610-8769   4518 AAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAAACAACCAATAAATACAT   4567
+
+c58280935-582   3536 -----ATTTTAAATTAAA-TAAACCCAGTTTCT-CAGCGGTGCTAACCAC   3578
+                          ||||||||||||| ||||   ||||||| |||      ||||..|
+87684610-8769   4568 AAATAATTTTAAATTAAATTAAA---AGTTTCTGCAG------TAACTGC   4608
+
+c58280935-582   3579 ATTTCAAATGCTCAATTGCCTTACAGTCTAGTGGCTCCCCCTATTGGGTG   3628
+                     ||||.||..|||||.|        ||||.|              ||||||
+87684610-8769   4609 ATTTTAAGGGCTCAGT--------AGTCCA--------------TGGGTG   4636
+
+c58280935-582   3629 GCACAGATGTAAAATATTTTCATCATCTCGGA----------AGGTTGAG   3668
+                     ....||..||    |.|||||.|||.|||.||          ||.|||.|
+87684610-8769   4637 AAGAAGTGGT----TGTTTTCTTCACCTCAGAAAATTCTAGTAGATTGTG   4682
+
+c58280935-582   3669 TTGGACCACACTGCTCCAAAATATCCCCTCC-TGCGCATCTTAATTACCC   3717
+                     |     ||        ||.||||| |.|||| ||.||.|.||..||.|..
+87684610-8769   4683 T-----CA--------CAGAATAT-CACTCCGTGAGCTTTTTGGTTTCTT   4718
+
+c58280935-582   3718 ATAATAAGAGATGATGGGATTTTAAATGTAAACA--ATTGGCAGTTTTGG   3765
+                     |.||..|.|||.|.||||||||.|||.|.|.|.|  .||||||| |||||
+87684610-8769   4719 AGAAAGACAGAAGGTGGGATTTCAAAAGGAGAGATGTTTGGCAG-TTTGG   4767
+
+c58280935-582   3766 AGACACAATTGGGGCAGTGATGGCAGCCATGACCAGACATTTTCCAGTGT   3815
+                     .||.|..||||||||||.|.|                          |||
+87684610-8769   4768 GGATAGGATTGGGGCAGGGGT--------------------------TGT   4791
+
+c58280935-582   3816 TTTTTTTTTTTCTAAGACGGAATCTCACTCTGTCACCCAG-GCTTGAGTA   3864
+                                       ||    |||      ||||||| ..||||   
+87684610-8769   4792 ------------------GG----TCA------CACCCAGAAATTGA---   4810
+
+c58280935-582   3865 CAGTGGCACAGTCTCGGCTCACTGCAAC--CTCTGCCA------ACTGGG   3906
+                        ||.|    |||| .|||||    ||  |||||..|      ||||||
+87684610-8769   4811 ---TGCC----TCTC-CCTCAC----ACCTCTCTGTGATTTTAGACTGGG   4848
+
+c58280935-582   3907 TTTAAGTGATTCTTCTGCCTCAGCCTCCTGAGTAG--CTGGGACTACAGG   3954
+                     ||..||     ||        |||||.|   |.||  ||||.|||     
+87684610-8769   4849 TTATAG-----CT--------AGCCTTC---GCAGGTCTGGTACT-----   4877
+
+c58280935-582   3955 CGCCTGCCACCACACTTGGCTAATTTTTTGTATTTTTAGTAGAGATGGTG   4004
+                         |||                   ||||.|                  
+87684610-8769   4878 ----TGC-------------------TTTGAA------------------   4886
+
+c58280935-582   4005 TTTTACCATGTTGGCCAGGCTGGTCTCAAAC--TCCTGACCTCATGATCT   4052
+                                 |.|||||||.|..||||||  ||||.|       ||||
+87684610-8769   4887 ------------GCCCAGGCTAGCTTCAAACATTCCTCA-------ATCT   4917
+
+c58280935-582   4053 GCCCACCTTAACCTCCCAAAGTGCTGGGATTACAGGTGTGAGC-CACCGC   4101
+                     .||.|.||||.|||..| |||||.||        ||||   || ||    
+87684610-8769   4918 TCCTATCTTAGCCTGTC-AAGTGTTG--------GGTG---GCTCA----   4951
+
+c58280935-582   4102 ACGCAGCCATTTTCCAGTGTTTTTAAATGT-AAACCCA---ATAGTGGAC   4147
+                            |||.|.|||             | ||.||||   |.||.||  
+87684610-8769   4952 -------CATGTACCA-------------TCAAGCCCACACACAGCGG--   4979
+
+c58280935-582   4148 CTCAGGCCCTTTCCTCTGG--CCTCCCTCTGCCTCCTCCTGATGGTTCCT   4195
+                       .|||   |.||.|||.|  ||||||| |.|||.||    |.||.|||.
+87684610-8769   4980 --GAGG---TCTCTTCTTGCACCTCCCT-TCCCTTCT----AGGGGTCCA   5019
+
+c58280935-582   4196 GCTGGTCTCTCCCTGGCTGGG-ACCCTGGGAGGAGGATCC-AGGTCGGAC   4243
+                     |.|||||||||     ||||| .||||||.||| |.|.|| |||||    
+87684610-8769   5020 GTTGGTCTCTC-----CTGGGTCCCCTGGCAGG-GCAGCCAAGGTC----   5059
+
+c58280935-582   4244 TTTCTGCAAGAG-ATGCCCGACCTCTTCTGGGCTAGTTAGGCAAGGGCAG   4292
+                       ..||||||.| .||       |||.||             |||||..|
+87684610-8769   5060 --AATGCAAGGGTGTG-------TCTCCT-------------AAGGGAGG   5087
+
+c58280935-582   4293 CCCTCCTTAGCCAGACTCAGCTGCCCACAGCCTGGCTTTGATGAGCCCCA   4342
+                     .|||.||        |||..|||      |.||||               
+87684610-8769   5088 GCCTGCT--------CTCTTCTG------GACTGG---------------   5108
+
+c58280935-582   4343 TGTCCCAAGCCTGGGTCATTATGACCTCTAGCTGTTCAT-GGATGGAGAT   4391
+                                       |.|||||||||.|.|..|||| ||.||||.|.
+87684610-8769   5109 ------------------TCATGACCTCTGGTTACTCATGGGGTGGAAAA   5140
+
+c58280935-582   4392 GCTGCTCTCAGAGAATTTCCTTTCCAC-CAG-------CTTCTAGAGCTG   4433
+                     |||.||||||| ||||.|..|||||.| |||       .||||| ||.||
+87684610-8769   5141 GCTACTCTCAG-GAATATGTTTTCCTCTCAGAATTTTCTTTCTA-AGTTG   5188
+
+c58280935-582   4434 GCAAGGACTGACCC----TAGTGTCCT--------GACCCTAGCCC----   4467
+                     ||||||.||||.||    .||||||.|        |.||||.||||    
+87684610-8769   5189 GCAAGGGCTGAGCCCAGTCAGTGTCTTGCAGCAAAGGCCCTGGCCCCCAC   5238
+
+c58280935-582   4468 --TCTGGC---CCCTGCAGAGAAGGGTTCTGGGAGGACTAGGGGAACCAG   4512
+                       ||||||   |||||  ..|||||.||.| ||||.|||||.||||.|  
+87684610-8769   5239 CTTCTGGCCTTCCCTG--TTGAAGGTTTAT-GGAGCACTAGAGGAATC--   5283
+
+c58280935-582   4513 GGGGGATCTGCTTAGTTTTCTTGAACAGTCTCAGGTGTGGA-CTCCACAT   4561
+                      |||||    |||..||||||||||.|||||.||||.|||| .|.|||||
+87684610-8769   5284 -GGGGA----CTTCATTTTCTTGAATAGTCTTAGGTATGGATGTACACAT   5328
+
+c58280935-582   4562 ATCTCATGTCCTAGCCCTCTCCCC----TGGGGCAGGCTGCACCATTGGC   4607
+                             |||..|||||||.|||    |  |.||||.||.| ||.||||
+87684610-8769   5329 --------TCCGTGCCCTCTTCCCACCAT--GACAGGATGTA-CAGTGGC   5367
+
+c58280935-582   4608 ATGTAGTAAAGGGCAGGG---CTGACAACTCTGTTCAAATGGTAGTGGCT   4654
+                     .|.||||    |..||.|   .||||||||.|.|||||||.||||.||.|
+87684610-8769   5368 TTATAGT----GAGAGTGATAATGACAACTGTCTTCAAATAGTAGAGGGT   5413
+
+c58280935-582   4655 TTCTGGAGTCCTGTGTTGAGAAGGATTCTGAGGTTGCATCCAATTTTAGC   4704
+                     |  |||.|||||||.|||||||||.||||||||||| |||||||||.|||
+87684610-8769   5414 T--TGGGGTCCTGTTTTGAGAAGGCTTCTGAGGTTG-ATCCAATTTGAGC   5460
+
+c58280935-582   4705 AGGAAAGAGTGC-TGTGA-TCGTTAGC---TGC--ATCAG-------ACA   4740
+                     ||.|||.| ||| |.|.| |..||.||   |||  ||.||       .|.
+87684610-8769   5461 AGAAAACA-TGCATATTACTTTTTGGCTTGTGCCAATGAGTACTTGCTCT   5509
+
+c58280935-582   4741 TGGG------CATGGA--------------TGTAGGCTGTGCCAA-----   4765
+                     ||||      ||||.|              ||||.| ||||...|     
+87684610-8769   5510 TGGGAGTGTTCATGTATTGTGGAGTGTGTGTGTATG-TGTGTGTAGTATG   5558
+
+c58280935-582   4766 ----------------CACGCATGCTTCT---------------------   4778
+                                     ||.||||||.|.|                     
+87684610-8769   5559 TATGTATGTATGTATGCATGCATGCATATAAGTATGTGTAGTATGTGTGT   5608
+
+c58280935-582   4779 --------TC----------------------CCAGACACTCCTTG----   4794
+                             ||                      .||.|       ||    
+87684610-8769   5609 GTAATATGTCTGTATGTCTGTGTAGTGTGTATGCATA-------TGTATA   5651
+
+c58280935-582   4795 -------GAATCAAGAGAATCAATGAACCAAGCA-GTGT--------TCA   4828
+                            |.||..|.||.||  .||.|...||.| ||||        |.|
+87684610-8769   5652 TATGTGTGTATGTATAGTAT--GTGTATGTAGTATGTGTATATGTTATTA   5699
+
+c58280935-582   4829 TAAGTCT-CATACTTTGTA----------------CCAGGCA--------   4853
+                     |.|||.| .|||.|.||||                .||.|||        
+87684610-8769   5700 TGAGTGTGTATAGTATGTATGTGTATAGTGTATGTGCATGCATATATAAT   5749
+
+c58280935-582   4854 --CTCTGTTAAGCCCCATGTATCCATATGTGTGCTAGGAGG---------   4892
+                       .|.|||        ||||.|.|||||||||| |||.|.|         
+87684610-8769   5750 GTATATGT--------ATGTGTGCATATGTGTG-TAGTATGTGTACATGT   5790
+
+c58280935-582   4893 ------------GAGGGTAAAATATAAAAAGGCACAAGCCTTGGTCCTGT   4930
+                                 .|.||.||||||.|.||||.||||.|.|||||.|.|||
+87684610-8769   5791 GTGTGTGTAGTAAATGGCAAAATACAGAAAGACACAGGGCTTGGCCTTGT   5840
+
+c58280935-582   4931 GCTCAAGGAGCT----CCCAGTTTCAGGTACAGGAAAGTGGCATGTC--A   4974
+                     ||..|||||.||    ||.|...||.|.|.||||.|.|||.||.|||  |
+87684610-8769   5841 GCCTAAGGATCTTGTGCCTAAGGTCTGCTCCAGGCAGGTGACAAGTCAAA   5890
+
+c58280935-582   4975 TGTGTTGGAAGTGATACCTATTGAATGAGCATCCCCA------ACCAGCA   5018
+                     |||..|||         ||||||..|.||  .|..||      |||| ||
+87684610-8769   5891 TGTAATGG---------CTATTGGGTAAG--GCTGCAGGGAGTACCA-CA   5928
+
+c58280935-582   5019 GCGGCCCTGAGCTGAGGCAGAAGCTATCATTGTG---GACTGGGGCATCA   5065
+                     |.|..||||||||               .||.||   |.|||.||| |||
+87684610-8769   5929 GTGTTCCTGAGCT---------------CTTATGCCAGCCTGTGGC-TCA   5962
+
+c58280935-582   5066 GGGAAGGCCTC-CTAGA----GGAGTGTAAATTGGGGA-TAGTTTGAAAA   5109
+                               | ||.||    ||.||||      |||| |||.|.|||||
+87684610-8769   5963 ----------CACTTGAATCTGGTGTGT------GGGAGTAGGTGGAAAA   5996
+
+c58280935-582   5110 GATGGATGGGGAGGAGGGGTGAGTAGGAGGCATTTCAGGC-CTTGGCTGG   5158
+                                                        ||||| |       |
+87684610-8769   5997 -----------------------------------CAGGCAC-------G   6004
+
+c58280935-582   5159 GGAGGGGGTTTCAGTGGAGCAAATCTTTTCTGG---------GATGGAGG   5199
+                     .|||||    .||.||.|||   |||||.||||         |||||||.
+87684610-8769   6005 TGAGGG----CCACTGAAGC---TCTTTGCTGGTCAGGAGATGATGGAGA   6047
+
+c58280935-582   5200 CCTTAAGAATGACAGTGGCTTTTGCCTCCCCAAGGGGACACCCGTTCCAG   5249
+                     ||.|||...|||||..||| |||||.||||..||||||||..||.|||||
+87684610-8769   6048 CCATAAAGGTGACAAAGGC-TTTGCTTCCCTCAGGGGACATGCGCTCCAG   6096
+
+c58280935-582   5250 TGAGATGCCCGAGCTCACCTCCATGCACACCCTCTTACTTCGGGAGCACA   5299
+                     .||||||||.||||||||||||||||||||||||||..||||.|||||.|
+87684610-8769   6097 CGAGATGCCGGAGCTCACCTCCATGCACACCCTCTTTGTTCGAGAGCATA   6146
+
+c58280935-582   5300 ACCGGCTGGCCACAGAGCTCAAGAGCCTGAACCCTAGGTGGGATGGGGAG   5349
+                     ||||||||||||||.||||||||.|||||||.|||.|.|||.||||||||
+87684610-8769   6147 ACCGGCTGGCCACACAGCTCAAGCGCCTGAATCCTCGATGGAATGGGGAG   6196
+
+c58280935-582   5350 AGGCTCTACCAGGAAGCCCGGAAGATCGTGGGGGCCATGGTCCAGGTAGG   5399
+                     |.||||||||||||.|||||||||||.||.||||||||||||||||||||
+87684610-8769   6197 AAGCTCTACCAGGAGGCCCGGAAGATTGTAGGGGCCATGGTCCAGGTAGG   6246
+
+c58280935-582   5400 CCGTCTTGAACACCGGGCACACGGGATCCAGATGTGTCCCTGCAACATCC   5449
+                     |                               ||||| |||...|||||.
+87684610-8769   6247 C-------------------------------TGTGT-CCTAACACATCT   6264
+
+c58280935-582   5450 TAGCTGTGTGACCTTGGGCAAGTTCCT--------AACGCTCCTGAGCCT   5491
+                     |.||..||||..||||||| ||||..|        |.|.|||||||.|..
+87684610-8769   6265 TGGCCATGTGTTCTTGGGC-AGTTTTTTTTTTTAAATCTCTCCTGAACAC   6313
+
+c58280935-582   5492 TGCC--TTCTTCATCCAT--GAGGCTGTAAGGATTATAATACATATATGA   5537
+                     ||.|  ||.||.||||||  .|||||..||||        |...|.||||
+87684610-8769   6314 TGGCTTTTTTTTATCCATAAAAGGCTCAAAGG--------AGCGAAATGA   6355
+
+c58280935-582   5538 AAACACCTTTCAGATAGTAAG-TGCTTGAC-AAAGCCTCCTTCCCTTCCC   5585
+                     |||..||..|||||.| |.|| ||||||.| |..||  .|||||||||  
+87684610-8769   6356 AAATGCCCCTCAGACA-TGAGATGCTTGGCGAGTGC--ACTTCCCTTC--   6400
+
+c58280935-582   5586 TCTCCT-TCTTCGCAGGTTTGCTCCCTGCAGTCTTCTTTCCTGTGGGTCT   5634
+                      ||||| |||            .|||.||..|||||.||||||.|||.||
+87684610-8769   6401 -CTCCTGTCT------------CCCCGGCCCTCTTCCTTCCTGAGGGCCT   6437
+
+c58280935-582   5635 GTTATTGGTGTTGGGAGGGTTGAATGTTTGGTTTAGCGCCCAAGTAGCTG   5684
+                     |    .||.||||.|||||                               
+87684610-8769   6438 G----AGGAGTTGAGAGGG-------------------------------   6452
+
+c58280935-582   5685 TTCAGTAAATTCTTCTTCCCTCCATCTCACTGTCACTCTTAGCTCCTTTA   5734
+                                                         |||||         
+87684610-8769   6453 ------------------------------------TCTTA---------   6457
+
+c58280935-582   5735 CCCACTCACCTCTTCTTTTTAAAATTAAAAAAATTATAGGGCTGGGCGCG   5784
+                                                                       
+87684610-8769   6458 --------------------------------------------------   6457
+
+c58280935-582   5785 GTGGCTCATGCCTGTAATCCCAGCACTTTGGGAGGCGGAGGCGGGTGGAT   5834
+                                          ||||                     |.|.
+87684610-8769   6458 ---------------------AGCA---------------------GAAG   6465
+
+c58280935-582   5835 CACGAG-GTCAGGAGATCAAGACCATGCTGGCTAACACGGTGAAACCCCA   5883
+                     |||.|| |||           |||  ||||||                  
+87684610-8769   6466 CACCAGAGTC-----------ACC--GCTGGC------------------   6484
+
+c58280935-582   5884 TCTCTACTAAAAATACAAAAATTAGCCGGGCGTGGTGGCGGGCACCTGTA   5933
+                     |||                 .|||.|||                 |||| 
+87684610-8769   6485 TCT-----------------TTTACCCG-----------------CTGT-   6499
+
+c58280935-582   5934 GTCCCAGCTACTTGGGAGGCTGAGGCAGGAGAATGGCGTGAACCTGGGAG   5983
+                                                                       
+87684610-8769   6500 --------------------------------------------------   6499
+
+c58280935-582   5984 GCAGAGCTTGCAGTGAGCTGAGATGGCGCTGCTGCACTCCAGCCTGGGTG   6033
+                                                                       
+87684610-8769   6500 --------------------------------------------------   6499
+
+c58280935-582   6034 ACAGAGCGAGACTCCATCTCAAAATAAATAAATAAATAAAATAAAATTTA   6083
+                                   ||||                                
+87684610-8769   6500 --------------CATC--------------------------------   6503
+
+c58280935-582   6084 AAAATTATTATTATTATTTTATTTTTATTTTTTGATACAGGGTCTTACCC   6133
+                                                                       
+87684610-8769   6504 --------------------------------------------------   6503
+
+c58280935-582   6134 TGTTGCCCAGGCTGGAGTGCAGTGGTGCGATCTTGGCTCACTGCAACCTC   6183
+                                                  ||||||               
+87684610-8769   6504 -----------------------------ATCTTG---------------   6509
+
+c58280935-582   6184 CACCTTTCAGGCTCAAGCCATTCTCCCATCTCAGCCTTCTGAGTAGCTGG   6233
+                             ||        |||||.||||                      
+87684610-8769   6510 --------AG--------CATTCCCCCA----------------------   6521
+
+c58280935-582   6234 GATTTCAAGCACGGGCCACCACGCCCGGCTAATTTTTGTATTTTTTGTAG   6283
+                                    ||.||||.|||                        
+87684610-8769   6522 ---------------CCCCCACCCCC------------------------   6532
+
+c58280935-582   6284 AGACGGGGTTTCGCCACGTTACCCAGTGTGGTCTCAAACTCCTGGGCTCA   6333
+                       ||       |.||||                                 
+87684610-8769   6533 --AC-------CCCCAC---------------------------------   6540
+
+c58280935-582   6334 AGTAATCCGCCCTCCTCGACCTCCCAAATCCCTGGGATTACAGGCACGAG   6383
+                              |||.||    |||.|||   |||.|||    ||||      
+87684610-8769   6541 ---------CCCACC----CCTGCCA---CCCGGGG----CAGG------   6564
+
+c58280935-582   6384 TCACTGTGTTCAGCCCACTCACCTCTTCTTTTTGGCTCTGTCATAATCCA   6433
+                            |.||      ||| |.|||..||||||                
+87684610-8769   6565 -------GCTC------CTC-CATCTGGTTTTTG----------------   6584
+
+c58280935-582   6434 CCCAATGTCCTTAGCCTCATTTACCCCTGGGGCAATGTTCC------TGG   6477
+                         ||||  ||    ||| |.||||||     ||| ||||      || 
+87684610-8769   6585 ----ATGT--TT----TCA-TGACCCCT-----AAT-TTCCCAAGAATG-   6616
+
+c58280935-582   6478 TTCTGTCTCTCAACATCTGGTGCTTCATTGCCCCCACCCTCTCCCTCAGA   6527
+                              |.||||| |.||||.|                   .|||  
+87684610-8769   6617 ---------TAAACAT-TCGTGCAT-------------------ATCA--   6635
+
+c58280935-582   6528 GGCAGAGGCAGACATACACACACTC-ACACACACACACACACACACACAC   6576
+                             ||.|||.||||||||.| ||||||||||||||||||||||||
+87684610-8769   6636 --------CACACACACACACACACAACACACACACACACACACACACAC   6677
+
+c58280935-582   6577 ACACACACACACT-CCTAGA--TTCTGGAGGAGAGAGTTTTCGGTGCTAA   6623
+                     |||.||||||||| ||||||  ||..||||| |.|.||..|..|||||.|
+87684610-8769   6678 ACATACACACACTCCCTAGACTTTAGGGAGG-GGGTGTGGTTAGTGCTGA   6726
+
+c58280935-582   6624 GGGTGAGTTTTTGATT----TGCACTAAGAA--CTCAAGTGAAATTCA-T   6666
+                     |..||.|.||||||||    .||||     |  |.||||.|..||||| |
+87684610-8769   6727 GCATGGGGTTTTGATTGACAGGCAC-----ACCCACAAGAGGGATTCACT   6771
+
+c58280935-582   6667 TTACACTC-----CAAAATAACTTCTAGACTCTAGAATGT--AGAGTGAG   6709
+                     ||...|||     |||      ||||||.|| |||   ||  |||||||.
+87684610-8769   6772 TTGGTCTCAGAGGCAA------TTCTAGCCT-TAG---GTCCAGAGTGAC   6811
+
+c58280935-582   6710 ACTATTCCATGTCTTCACTTTTCACA-------GGGAAAATCATGC----   6748
+                     ||       ||||        |||||       |||.|.|||  ||    
+87684610-8769   6812 AC-------TGTC--------TCACAGCCTTTGGGGGACATC--GCACTG   6844
+
+c58280935-582   6749 ---CAGAATGGCCCTTCGTTCCTTCCTGCC-TCCCTGCTTTCCACAAACC   6794
+                        ||||     |||          ||||| ||.|| ||.||.|.|||||
+87684610-8769   6845 GAGCAGA-----CCT----------CTGCCATCTCT-CTGTCTATAAACC   6878
+
+c58280935-582   6795 TAAACTGAGCCTTACTGTGGGC-AGGCACTTGGTGGGCACTGTGAAGAAT   6843
+                     |..||||||||.|||||||.|| ||.|..|||.|||.|||||||||.|||
+87684610-8769   6879 TGTACTGAGCCCTACTGTGTGCTAGTCTATTGCTGGACACTGTGAATAAT   6928
+
+c58280935-582   6844 TTCAACAACTTCAATTTCCCTTGCTCTCAAGGACTTTATAAGATAGTTGC   6893
+                     .|||..||.|||||.||||||.|.||||||||                  
+87684610-8769   6929 CTCAGTAATTTCAACTTCCCTGGGTCTCAAGG------------------   6960
+
+c58280935-582   6894 AGAAATGAGA-CATTAATAACTTGAGGACAAGGAAGTTATCACAATGACT   6942
+                     .||||||.|| ||.|||||.|||.|.||||.||..|.|||.|||||||||
+87684610-8769   6961 GGAAATGGGACCACTAATACCTTAAAGACACGGGGGATATTACAATGACT   7010
+
+c58280935-582   6943 AAAAAAGTGATTTGCTATTTAGTCCTCTAAGGCAGAGGGCAATATAATTA   6992
+                      ||||||..||||  |.||||.||  ||.||..||||||..|.|.|||||
+87684610-8769   7011 -AAAAAGACATTT--TGTTTAATC--CTGAGAGAGAGGGAGAGAGAATTA   7055
+
+c58280935-582   6993 -TCCTTAATGTACATTTGAGGAACTCAGGCTCAGAGAGGTTAATAATTGG   7041
+                      ||||| .|.||||||||        .||.||||||||.|||||||.||.
+87684610-8769   7056 TTCCTT-GTTTACATTTG--------TGGTTCAGAGAGTTTAATAAATGA   7096
+
+c58280935-582   7042 TCCAAGGTCACCCAGCCAGCAAGCAGTAGAACTCTATTTATG-CCTCTCA   7090
+                     .|..||||                    ||..|||||||||| |||    
+87684610-8769   7097 CCTGAGGT--------------------GAGTTCTATTTATGTCCT----   7122
+
+c58280935-582   7091 GTGCCACTCTGTT--------AGGCCCAGGTCCGGTATTGTGGGAGGCT-   7131
+                            ||||||        ||.||.|.|      |.|.||||||.|| 
+87684610-8769   7123 -------TCTGTTAAAATCTAAGACCTAAG------ACTATGGGAGACTG   7159
+
+c58280935-582   7132 ATTCCCTGACCATAGAGGGATGGAAGGGG----TCCCCGAAGC-CAAGAG   7176
+                     ||  |||..|||         ||.|||||    |||||.|||| ..|||.
+87684610-8769   7160 AT--CCTAGCCA---------GGTAGGGGCAATTCCCCCAAGCTGGAGAC   7198
+
+c58280935-582   7177 CAGGCAGAGACTCTGGCCCTCCTGTGCTGCCAGGCGGCATTTGCTGTGGA   7226
+                     ||  |||                                        |||
+87684610-8769   7199 CA--CAG----------------------------------------GGA   7206
+
+c58280935-582   7227 GG----AGTGGGTGGAGAGGCCATTC-----CAAA-TGAC-TTGTCTTTA   7265
+                     ||    |.|      |||   || ||     |||| |||| |||| ||||
+87684610-8769   7207 GGAACAAAT------AGA---CA-TCTAACACAAAGTGACTTTGT-TTTA   7245
+
+c58280935-582   7266 GATCATCACTTACCGGGACTACCTGCCCCTGGTGCTGGGGCCAACGGCCA   7315
+                     |||||||||.||||||||||||||||||.|||||.||||||||.|.||||
+87684610-8769   7246 GATCATCACATACCGGGACTACCTGCCCTTGGTGTTGGGGCCAGCAGCCA   7295
+
+c58280935-582   7316 TGAGGAAGTACCTGCCCACGTACCGTTCCTACAATGACTCAGTGGACCCA   7365
+                     |||.|||||||||.|||..||||||.||.|||||.||||||||.|||||.
+87684610-8769   7296 TGAAGAAGTACCTACCCCAGTACCGATCTTACAACGACTCAGTAGACCCT   7345
+
+c58280935-582   7366 CGCATCGCCAACGTCTTCACCAATGCCTTCCGCTACGGCCACACCCTCAT   7415
+                     ||.||||||||.|||||||||||.||.|||||.||.||||||||||||||
+87684610-8769   7346 CGAATCGCCAATGTCTTCACCAACGCTTTCCGTTATGGCCACACCCTCAT   7395
+
+c58280935-582   7416 CCAACCCTTCATGTTCCGCCTGGACAATCGGTACCAGCCCATGGAACCCA   7465
+                     ||||||||||||||||||||||.||||||.|||||.|||||..|..||||
+87684610-8769   7396 CCAACCCTTCATGTTCCGCCTGAACAATCAGTACCGGCCCACAGGGCCCA   7445
+
+c58280935-582   7466 ACCCCCGTGTCCCCCTCAGCAGGGTCTTTTTTGCCTCCTGGAGGGTCGTG   7515
+                     |||||||.|||||.|||||||.|||||||||||||..||||||.||||||
+87684610-8769   7446 ACCCCCGAGTCCCACTCAGCAAGGTCTTTTTTGCCAGCTGGAGAGTCGTG   7495
+
+c58280935-582   7516 CTGGAAGGTAAGCAGGACCTAGGCCAGGAGCGAGTGGGCTGACAGCTAAA   7565
+                     .||||||||.|...|.|||||.|  |..|||.||        |||||||.
+87684610-8769   7496 TTGGAAGGTGAATGGAACCTAAG--AAAAGCCAG--------CAGCTAAT   7535
+
+c58280935-582   7566 GGTGGGGTAGGGATCACCTTGGCTCTAGGGAGCTAGGGTGGGGAGCAGTC   7615
+                     |.||||.|.|         |||||..||.||.|||||.|.|||||..|||
+87684610-8769   7536 GATGGGATGG---------TGGCTGCAGAGACCTAGGCTAGGGAGAGGTC   7576
+
+c58280935-582   7616 TGCTTTCCTCCCATCTTGGAGATCTGGTCTGACTC--TCTAGCCTCAGTT   7663
+                     |..|||     ||||||||.||         ||.|  |||.||.|     
+87684610-8769   7577 TTTTTT-----CATCTTGGGGA---------ACCCAGTCTTGCTT-----   7607
+
+c58280935-582   7664 CCTCTGACTCTGCTTCCATATCTGATAATAAACAGTGGGGTGGGGATGGC   7713
+                             ||..|||.|||   |||                         
+87684610-8769   7608 --------TCCACTTTCAT---TGA-------------------------   7621
+
+c58280935-582   7714 CCTCAGAGGGAACTGGCTACTTCCTATGTGTTGTGGCTCGCTGTGACCCA   7763
+                      ||.|||      .|||||                               
+87684610-8769   7622 -CTTAGA------AGGCTA-------------------------------   7633
+
+c58280935-582   7764 GGAAGCCAGGGCCTGGGAGCATCCCAATCTTGCAAGTCTGAATGGCATAA   7813
+                                     |.|||||||||.||||      ||||        
+87684610-8769   7634 ----------------GCGCATCCCAACCTTG------TGAA--------   7653
+
+c58280935-582   7814 TCTCCTGAGACCTATATGTCCCTGGGGTCATGTAGTGACCGGTGAGGACC   7863
+                                        ||||                           
+87684610-8769   7654 -------------------CCCT---------------------------   7657
+
+c58280935-582   7864 TGCTCACTGGGGCCACCA--CCTTGGCACCAGGCACTGCTTGTGCCCAGC   7911
+                                 ||.|||  |||     |||.|       |||..|.||.
+87684610-8769   7658 ------------CCCCCAACCCT-----CCAAG-------TGTTGCAAGA   7683
+
+c58280935-582   7912 CCT-----CTTCTC---GAATCCTCCTGACCCTACCTGGACTTGTCCCTG   7953
+                     .||     ||||||   ||..|||.| ||..|.||.|||||..| |||||
+87684610-8769   7684 GCTTATAGCTTCTCTCTGACCCCTAC-GATTCCACTTGGACCAG-CCCTG   7731
+
+c58280935-582   7954 ACTCCAATCTGAGCTCTGATACTGAGCCAGATAC------TTCCCCTGAC   7997
+                     ||||||.|.||.|||||.|||.|.||  ||| ||      ||||..|.||
+87684610-8769   7732 ACTCCACTGTGTGCTCTCATAGTAAG--AGA-ACCAACCTTTCCTTTCAC   7778
+
+c58280935-582   7998 -CTGGCTCCTCTGGTCCCCAGGTGGCATTGACCCCATCCTCCGGGGCCTC   8046
+                      ||||  .||||.||||.|||||||||||||||||||||||||.||||||
+87684610-8769   7779 TCTGG--TCTCTTGTCCTCAGGTGGCATTGACCCCATCCTCCGAGGCCTC   7826
+
+c58280935-582   8047 ATGGCCACCCCTGCCAAGCTGAATCGTCAGAACCAAATTGCAGTGGATGA   8096
+                     ||||||||.||.|||||.||||||||.|||||.|||||||..||||||||
+87684610-8769   7827 ATGGCCACTCCAGCCAAACTGAATCGCCAGAATCAAATTGTGGTGGATGA   7876
+
+c58280935-582   8097 GATCCGGGAGCGATTGTTTGAGCAGGTCATGAGGATTGGGCTGGACCTGC   8146
+                     |||||||||||||.|.||||||||.|||||||||||.||.|||||..|||
+87684610-8769   7877 GATCCGGGAGCGACTATTTGAGCAAGTCATGAGGATAGGACTGGATTTGC   7926
+
+c58280935-582   8147 CTGCTCTGAACATGCAGCGCAGCAGGGACCACGGCCTCCCAGGTGAGGGG   8196
+                     |||||||.|||||||||||||||.||||.||||||||||||||||||.||
+87684610-8769   7927 CTGCTCTTAACATGCAGCGCAGCCGGGATCACGGCCTCCCAGGTGAGAGG   7976
+
+c58280935-582   8197 CTGCAG---GAGTCTCCCCTGATGCTCACCTCCCCTGAGCTGCCTCCTAG   8243
+                     |  |||   .||   ||||  || |.||||||||              ||
+87684610-8769   7977 C--CAGCCACAG---CCCC--AT-CCCACCTCCC--------------AG   8004
+
+c58280935-582   8244 GTAGCCCATCACCCCCCTTCCCACTCTAGGGTCCCTGCCCTCTCCAAAGC   8293
+                     |.||       |.|||||||...|||..||||      |||.||||    
+87684610-8769   8005 GCAG-------CTCCCCTTCTTGCTCAGGGGT------CCTTTCCA----   8037
+
+c58280935-582   8294 ATATTA--GAGGCACTTTGCTCTCAGGAAGTAGCCTGAGGCCAGGCCCCT   8341
+                     .|.|||  ||.|||                   ||||||||.||| |.||
+87684610-8769   8038 GTTTTATGGATGCA-------------------CCTGAGGCAAGG-CGCT   8067
+
+c58280935-582   8342 GCCTTTTCCCGGACCCACCTG-----ATAAATTTCCAGCTCCTCTC-AAC   8385
+                     |||||||||.|    |.||||     .|||.||  |.|  |||||| ...
+87684610-8769   8068 GCCTTTTCCAG----CCCCTGGTGGCCTAAGTT--CGG--CCTCTCTTGG   8109
+
+c58280935-582   8386 CTCCTTTGCATGCTGTAATT--------CTCATATTAGGGGCATCGTCAT   8427
+                     ||.|||..||.||||.|.||        |.|.||..||..|.|    |||
+87684610-8769   8110 CTTCTTCACAAGCTGGACTTTTGCAACCCGCGTAGCAGCTGAA----CAT   8155
+
+c58280935-582   8428 CATAATGATAACCCACAGTCTGAAAATCTGTCTCTGTCATCATT---CCA   8474
+                     |||        |||||..||||.||.||||.|||   ||||.||   .|.
+87684610-8769   8156 CAT--------CCCACGATCTGGAAGTCTGCCTC---CATCGTTAGCACG   8194
+
+c58280935-582   8475 TTTTGCTTCATTGTACGTTAACTCTGGGGGAAGAGATTATTATTGCCTTC   8524
+                     ||.||..|||||   |.|.|||||..|||...||||.||..|.||   ||
+87684610-8769   8195 TTCTGACTCATT---CATGAACTCGCGGGTGGGAGAGTACCACTG---TC   8238
+
+c58280935-582   8525 A-TTTTACTGATGAGGAAACTGAGGCTTGATGAGA----TTCAGAACCTG   8569
+                     | |||||||||.|||||||||..|||||    |||    ||||||..|||
+87684610-8769   8239 ATTTTTACTGACGAGGAAACTAGGGCTT----AGAGCAGTTCAGAGTCTG   8284
+
+c58280935-582   8570 GCCAGGTTCTCTAGCCAAGTCAGTGGCAAAGCTGAAATTTGAAGCCA---   8616
+                     ||..|||....|.||||.|||||||..|.|..||.|..|||.|.|.|   
+87684610-8769   8285 GCTCGGTGTGGTTGCCACGTCAGTGAGAGACGTGGAGGTTGGACCTAAGG   8334
+
+c58280935-582   8617 -GATTAGCCTAACCTCAAAG-CCTGTGCCTATGTTATGGGGTAGCCCATG   8664
+                      |||.|||..||||..|||| ||.||||||.||||.|||.|||||.||.|
+87684610-8769   8335 GGATCAGCGGAACCCAAAAGCCCCGTGCCTGTGTTGTGGAGTAGCACAAG   8384
+
+c58280935-582   8665 TGGCTGAGGCTTCT-AGACAC-ATTTCACCTCTCATGGGTCAGAGACAGA   8712
+                     |||| .|.||.||| .||.|| .||||| .|||| ||.||||||||.|||
+87684610-8769   8385 TGGC-CACGCCTCTGGGAAACGTTTTCA-TTCTC-TGAGTCAGAGAAAGA   8431
+
+c58280935-582   8713 CACATCGGGCTGCT-CTGGAGGGGGACAAGGAGATGTCCCTATTCTTGGA   8761
+                     .||||..||||||| ||..| .|||||||.|.|.|||..|..|.||||..
+87684610-8769   8432 TACATTAGGCTGCTGCTCTA-AGGGACAATGTGCTGTTTCCGTGCTTGAG   8480
+
+c58280935-582   8762 CCCAGCAGGAACTGTGGCAGTTTAGGGTTTGCCTTATGGTAGGAGGGCAA   8811
+                     .|..||.|||..|||||.|.|..||||.|.|||  |.||||||||    |
+87684610-8769   8481 TCTGGCGGGATTTGTGGTAATACAGGGCTGGCC--AGGGTAGGAG----A   8524
+
+c58280935-582   8812 GAG------AAAGACAGAGAGGGTCCCAGAGAGGCCCAGTTGTGCC--CC   8853
+                     |||      |||||..||||||  .|..|||..||||||  .||||  |.
+87684610-8769   8525 GAGTGAGGAAAAGAGTGAGAGG--TCTGGAGGAGCCCAG--CTGCCTACT   8570
+
+c58280935-582   8854 TTGGTCTAAGCCAAAGGTACAGGGTTCCTTGAGGTGAGGTCCTTCCCTCC   8903
+                     ||||.||.||||||           ||.||.|||   |.|||.|      
+87684610-8769   8571 TTGGCCTGAGCCAA-----------TCATTTAGG---GATCCAT------   8600
+
+c58280935-582   8904 CTCTATGACCTT--GG--TTGTGT--TGGGAAGGTGGGTTTTCTGGGCTG   8947
+                      ||||    |||  ||  ||||||  ||.||            ||||||.
+87684610-8769   8601 -TCTA----CTTACGGTCTTGTGTACTGAGA------------TGGGCTT   8633
+
+c58280935-582   8948 CTGGCGATATGTG-AATCTTCCCTGCTGTCTCCAGTGACCTCCCCACCTT   8996
+                     .||...||.|||| |.||||.|||||..|..|||||  .||||...||  
+87684610-8769   8634 TTGAACATCTGTGTATTCTTTCCTGCCCTTCCCAGT--ACTCCTAGCC--   8679
+
+c58280935-582   8997 GAAGCAGAGAGACCTGCCCAT----AGCCACCTGTCCCCT-CCCCCATGC   9041
+                       .|||| ||||...|.||||    |||.||||||.|.|| .|||.|.||
+87684610-8769   8680 --GGCAG-GAGAGGGGTCCATTTACAGCTACCTGTTCTCTGGCCCAACGC   8726
+
+c58280935-582   9042 AGGATACAATGCCTGGAGGCGCTTCTGTGGGCTCCCGCAGCCTGAAACTG   9091
+                     ||||||||||||||||||.|||||.||||||||.||.|||||....||.|
+87684610-8769   8727 AGGATACAATGCCTGGAGACGCTTTTGTGGGCTTCCACAGCCCAGCACAG   8776
+
+c58280935-582   9092 TGGGCCAGCTGGGCACGGTGCTGAGGAACCTGAAATTGGCGAGGAAACTG   9141
+                     ||||..||||.|||||||||||||.|||||||.|.|||||..||||.|||
+87684610-8769   8777 TGGGTGAGCTCGGCACGGTGCTGAAGAACCTGGAGTTGGCACGGAAGCTG   8826
+
+c58280935-582   9142 ATGGAGCAGTATGGCACGCCCAACAACATCGACATCTGGATGGGCGGCGT   9191
+                     ||||..||.||||||||||||||||||||.|||||||||||||||||.||
+87684610-8769   8827 ATGGCACAATATGGCACGCCCAACAACATTGACATCTGGATGGGCGGTGT   8876
+
+c58280935-582   9192 GTCCGAGCCTCTGAAGCGCAAAGGCCGCGTGGGCCCACTCCTCGCCTGCA   9241
+                     |||||||||.|||.|||.|||.|||||.||.||||..|||||.||||||.
+87684610-8769   8877 GTCCGAGCCCCTGGAGCCCAATGGCCGTGTAGGCCAGCTCCTTGCCTGCC   8926
+
+c58280935-582   9242 TCATCGGTACCCAGTTCAGGAAGCTCCGGGATGGTGATCGGTGAGGA---   9288
+                     ||||.||.||.|||||.||||||||.||.|||||||||||||.||||   
+87684610-8769   8927 TCATTGGCACTCAGTTTAGGAAGCTACGTGATGGTGATCGGTAAGGAAGC   8976
+
+c58280935-582   9289 ---GGG---GCAGGCGTCGTG------------GGCCGCTGGGTGGCTGT   9320
+                        |||   |||||    |||            ||||   |||.||    
+87684610-8769   8977 TGTGGGAAAGCAGG----GTGCCACAACTGTGAGGCC---GGGAGG----   9015
+
+c58280935-582   9321 GGGCCCATCCTTG-AC---------------TCTCTTGGAGCCCAAATT-   9353
+                     ||||.|||.|  | ||               .|.|||.|||..|||.|| 
+87684610-8769   9016 GGGCGCATGC--GCACCGCAGCAGTCAGGCGGCGCTTAGAGAACAACTTA   9063
+
+c58280935-582   9354 TCCTCCTGTCAGTTGAAGGACTGGAGGGAGTCAGTAATTTTCCA----GT   9399
+                     |    ||||.|||||                       .|||||    ||
+87684610-8769   9064 T----CTGTGAGTTG-----------------------GTTCCATCATGT   9086
+
+c58280935-582   9400 GTGTTCCAGGAA---TCCTCCAGAT----GCCCTGG-----AGTGCCCCT   9437
+                     .||.||.|||.|   |..||.||.|    |||.|||     .|||||   
+87684610-8769   9087 CTGGTCTAGGGATGGTAGTCAAGTTCTCAGCCTTGGTGGTACGTGCC---   9133
+
+c58280935-582   9438 AATGTGCC--CTGAACC-TGTTGGGGGTGCAGCAAGGAAAGACCTGGACC   9484
+                       |.||||  ||||||| |.|||                    ||||.||
+87684610-8769   9134 --TTTGCCCACTGAACCATCTTG--------------------CTGGTCC   9161
+
+c58280935-582   9485 CCTGGTTGTAAAGGGTGGAAGATAGAAAAGTGCCACCCTTAGCTA-CTTC   9533
+                     |                        ||||.||||||.|||| .|| .|||
+87684610-8769   9162 C------------------------AAAAATGCCACTCTTA-ATAGGTTC   9186
+
+c58280935-582   9534 TTCCCATGGGTTTCACTGTGCCACCATGTG--GGTGTCAGTCACCAGTGG   9581
+                     |    .||||||||.|.||||.||  ||||  ||.||||||.|||| |||
+87684610-8769   9187 T----CTGGGTTTCTCAGTGCTAC--TGTGGAGGCGTCAGTTACCA-TGG   9229
+
+c58280935-582   9582 -GCAGTCCC------CTCCCAGCTTTCCCACAGCT--CCCCTT---AGTG   9619
+                      ..|||.||      |||||            |||  ||||||   | ||
+87684610-8769   9230 AAAAGTGCCAAAAGTCTCCC------------GCTGACCCCTTTTCA-TG   9266
+
+c58280935-582   9620 TCATTTCCTCGTGGTCCTGATGTCTTCATGTCTAGTTCTTGCTTAGCCTG   9669
+                     |||||||.||..|.||.||...|||.|.||||||||||||...||||.||
+87684610-8769   9267 TCATTTCATCACGATCTTGGAATCTCCGTGTCTAGTTCTTATCTAGCTTG   9316
+
+c58280935-582   9670 TACTGCACCTTTGGGAAAATTAGAAAAAGGTGCCCCTCTCTGGGTGGGCG   9719
+                     .|.|.|||||||||.||.||...|||||||||.|||..||..|..|.|..
+87684610-8769   9317 CATTACACCTTTGGCAATATCGTAAAAAGGTGTCCCAGTCAAGAAGAGAA   9366
+
+c58280935-582   9720 AATTATAAA--CCACCCCCAAGATTCTCTTCCACTCCTGTGGATGCAGCT   9767
+                     .||.|.|||  ||||||   ||..|.||||..|| ||.|||         
+87684610-8769   9367 CATCACAAATGCCACCC---AGGCTTTCTTTTAC-CCCGTG---------   9403
+
+c58280935-582   9768 CCTGGCCAGGGCACAGGGCTTCAGGAGTGTGTGTGGGCCCGGGTCCCCCT   9817
+                                            ||||.|||..|..|.|.|||.|||   
+87684610-8769   9404 -----------------------GGAGCGTGCATCAGACTGGGACCC---   9427
+
+c58280935-582   9818 CCAGCATGGTGCCCTGGAGGCCGCCGGGCTAGGGGTAAGGGAAAGGCCAC   9867
+                                                         ||            
+87684610-8769   9428 ------------------------------------AA------------   9429
+
+c58280935-582   9868 TGGGCAGCTGTGCTT---TACTCTGCACGATGAGTGGAGCATCACTTGTG   9914
+                        ||||||||||||   |..||||  .|.||||||| |||         
+87684610-8769   9430 ---GCAGCTGTGCTTCTGTCTTCTG--GGCTGAGTGG-GCA---------   9464
+
+c58280935-582   9915 TGAAAGCCCCTGGGCTGCCCAAGGGCCTGGGGCCCTCCTGTGCTTCCAGG   9964
+                                   |||||| |.|.||| |.||.|||||||||       
+87684610-8769   9465 --------------CTGCCC-ACGACCT-GAGCTCTCCTGTGC-------   9491
+
+c58280935-582   9965 TGGCATTTGTTGTGGCTTTGTTATATCCT-------------------GG   9995
+                               |||.|.|..| .||||.||                   ||
+87684610-8769   9492 ----------TGTAGATAAG-AATATTCTGAAGCCCCCTCACACTCAGGG   9530
+
+c58280935-582   9996 GAGCAGCACAAGCCCATCGATGCCCT-GCCAGCC-----CAGAATATCCT  10039
+                     || |..|.||||||....||||.||| |..||||     |.|.|.|||||
+87684610-8769   9531 GA-CGTCTCAAGCCAGGGGATGTCCTGGGTAGCCTCACTCGGGACATCCT   9579
+
+c58280935-582  10040 TGGGCACAGTGTCCATGGGTGTTC---CCCATGCAGGTTTTGGTGGGAGA  10086
+                     ..|.||.|.|||||| .|.||.||   |||||||||||||||||||||||
+87684610-8769   9580 CAGACATAATGTCCA-CGATGCTCCCTCCCATGCAGGTTTTGGTGGGAGA   9628
+
+c58280935-582  10087 ACGAGGGTGTGTTCAGCATGCAGCAGCGACAGGCCCTGGCCCAG-ATCTC  10135
+                     ||...||.||||||||.|..||||||.||||||||.||| |||| |||||
+87684610-8769   9629 ACCCAGGCGTGTTCAGTAAACAGCAGAGACAGGCCTTGG-CCAGCATCTC   9677
+
+c58280935-582  10136 ATTGCCCCGGATCATCTGCGACAACACAGGCATCACCACCGTGTCTAAGA  10185
+                     .||||||||.||||||||.||||||||.|||||||||||||||||.||||
+87684610-8769   9678 CTTGCCCCGTATCATCTGTGACAACACTGGCATCACCACCGTGTCGAAGA   9727
+
+c58280935-582  10186 ACAACATCTTCATGTCCAACTCATATCCCCGGGACTTTGTCAACTGCAGT  10235
+                     ||||||||||||||||||||.||||.|||||.||||||||||.|||.|..
+87684610-8769   9728 ACAACATCTTCATGTCCAACACATACCCCCGAGACTTTGTCAGCTGTAAC   9777
+
+c58280935-582  10236 ACACTTCCTGCATTGAACCTGGCTTCCTGGAGGGA-AGCCTCCTAGAGGC  10284
+                     ||.||||||..|.||||||||.|||||||||.||| |    ||||||||.
+87684610-8769   9778 ACCCTTCCTAAACTGAACCTGACTTCCTGGAAGGAGA----CCTAGAGGT   9823
+
+c58280935-582  10285 CAGGTAAGGGGGT-GCAGCAGTGAGGGGTATATCTGGGCTGGCCAGTTGG  10333
+                     ..||||||||..| ||| ||.|||.|||||||.|| ||.||||.|||.||
+87684610-8769   9824 TGGGTAAGGGCTTGGCA-CACTGAAGGGTATACCT-GGTTGGCTAGTGGG   9871
+
+c58280935-582  10334 AACCACGGAGATCTC-CTTGCCCTAGATGAGCCCAGCCCTG------TTC  10376
+                     ||.|||.||||.||| ||| ||||.|.|||..|||.|..||      ||.
+87684610-8769   9872 AATCACAGAGAACTCTCTT-CCCTGGGTGAATCCATCTTTGTGGATATTG   9920
+
+c58280935-582  10377 TGGGTG-CAGCT----------GAGAAAATGAGTGACTAGACGTTCATTT  10415
+                     |||||| ||| |          |.||||     |||||.|||.||||.||
+87684610-8769   9921 TGGGTGACAG-TGGGGGGTGGGGGGAAA-----TGACTGGACATTCACTT   9964
+
+c58280935-582  10416 GT--GTGCTC--------------------------------ATGTATGT  10431
+                     ||  ||||.|                                ||.|||.|
+87684610-8769   9965 GTGAGTGCACAAGTATATTTGCATATACACTTGTGCACATCTATATATAT  10014
+
+c58280935-582  10432 GCGAAGTATATAAATTGGCTTTTCATGCGTGTGTGTTGTCTGAACATGGG  10481
+                     ||.|..||.|||||.|.|..|||||||.||||.||.|.|.|||.||||||
+87684610-8769  10015 GCAACATACATAAACTAGTATTTCATGTGTGTCTGGTCTGTGAGCATGGG  10064
+
+c58280935-582  10482 GAGTGTTTCATGGGTTATGTGTATGTGCCATTTATGTGAGTGTGTG-TTT  10530
+                     .|.|||||.|||.|...|||||...|||||.|.|..|||||.||.| |..
+87684610-8769  10065 CAATGTTTGATGTGCCTTGTGTGCCTGCCAATCACATGAGTCTGGGCTCA  10114
+
+c58280935-582  10531 GTGCTGATGAGAATACTGAGTATGTGGAAGGCAGCAGAGCGGACTGGTGA  10580
+                     .||||.|.||.||||.|..|.|.||||             ||||     |
+87684610-8769  10115 CTGCTTACGACAATATTAGGAACGTGG-------------GGAC-----A  10146
+
+c58280935-582  10581 G-GAGCACAGCTCAGGAACTAGACTGCCTGGGTTCCAATCCTGGCTCTGT  10629
+                     | ||||              ||||.|||.|.||||.|.||.|..|.||||
+87684610-8769  10147 GTGAGC--------------AGACAGCCCGAGTTCAAGTCATCACCCTGT  10182
+
+c58280935-582  10630 GGC---TTGCTAGCTATGTGACCTTGAGCAAATTACCCTCCTTAAACAAG  10676
+                     .||   .|.||  .|.||||||.|||..||||||||.||        |||
+87684610-8769  10183 AGCACAGTACT--GTGTGTGACTTTGGCCAAATTACTCT--------AAG  10222
+
+c58280935-582  10677 ----AGTTTTCTTCCTTGTAAATTACATCTGTCATGGTTTCTTGGAGGGC  10722
+                         |.||.||||||||.|||||.|.|||.|.||.||.||.||.||||||
+87684610-8769  10223 GATAAATTCTCTTCCTTATAAATGAAATCAGCCACGGCTTGTTAGAGGGC  10272
+
+c58280935-582  10723 CCACTTGTATCCTCTGGTTCTTCATTTATTGAGCACCTACTACATGCAAG  10772
+                     |.| |||..|||||....|||.||.|.||.|||||.||.|.|..|||.||
+87684610-8769  10273 CTA-TTGCCTCCTCCAACTCTCCACTCATGGAGCAGCTCCCATGTGCTAG  10321
+
+c58280935-582  10773 GCACTGTACTAGGCGTGAGAAGCATATAGAGGCAAGAAAGA--GATACCA  10820
+                     |||||||.||||.|.||.|||||    |||..|||.|||||  .||||||
+87684610-8769  10322 GCACTGTGCTAGCCATGGGAAGC----AGAAACAATAAAGATGAATACCA  10367
+
+c58280935-582  10821 A-----GATGCCA-----TCTGT---GTCCTGGTTAGCAGAGCTGGACCA  10857
+                     |     .||||||     ||..|   .|.||||||.|||||     |.||
+87684610-8769  10368 AAGATGAATGCCAAATCCTCGATCACCTTCTGGTTGGCAGA-----AACA  10412
+
+c58280935-582  10858 --GTGGTGCCTT--GGAGG-GATAAGCCAGCT-GCAGCTGGGCTGTGTGG  10901
+                       ||||||.|.|  ||||| ||..|..||||| |||||||||||||||||
+87684610-8769  10413 AGGTGGTGGCCTCCGGAGGAGAGGATGCAGCTAGCAGCTGGGCTGTGTGG  10462
+
+c58280935-582  10902 TTG------ACTTATGGGCCCAGCCAGCCAGGCT---CAGGCCATGGCTC  10942
+                     |||      |.||.|||     ||||||...|||   |.|||.||..|||
+87684610-8769  10463 TTGTGATACAGTTCTGG-----GCCAGCTCTGCTTAACTGGCTATTTCTC  10507
+
+c58280935-582  10943 CCCTTTTTCTTCCTCACCCTGATTTCTTGCTTATTCACTGAAGTTCT-CC  10991
+                     |   |||||  |||.||.||..|.|||||| |||||||.|.|| ||| ||
+87684610-8769  10508 C---TTTTC--CCTTACTCTCTTCTCTTGC-TATTCACAGGAG-TCTGCC  10550
+
+c58280935-582  10992 TGAAGAGGAACTG-GGCCTGTTGCCCTTTCTGTACCATTTATTTGCTCCC  11040
+                     .|.|||.|.||.| |||| .|||.||||.||||.|    ||||||..||.
+87684610-8769  10551 GGGAGAAGGACGGAGGCC-ATTGGCCTTCCTGTGC----TATTTGTACCT  10595
+
+c58280935-582  11041 AATGTTTATGATAATAAAGGCACCGCTGATGGGGACCTCCA  11081
+                     .|.|||.|...||||||| .||..|..||||||||      
+87684610-8769  10596 GAGGTTCACACTAATAAA-ACATGGTGGATGGGGA------  10629
+
+
+#---------------------------------------
+#---------------------------------------
