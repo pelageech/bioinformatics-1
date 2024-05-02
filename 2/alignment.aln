@@ -1,0 +1,1133 @@
+CLUSTAL format alignment by MAFFT (v7.511)
+
+
+NM_0013640 ---------------------------gggagcgcggaacagcttgtccacccgccggcc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 -----------------------gggggggagcgcggagcagcgtgcccatcc----gcc
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ----------------ccccgggcgccgggagcgcggagcagcgtgcccaccc----gca
+KY307887.1 -----------------------------------------------ccacc------tt
+KJ598804.1 ------------------------------------------------------------
+NM_009504. aaaagctgctgccgagccctaagcacgggaagcgccgagctgtgtgtccacc-----gcc
+NM_017058. ---------------------------------------------gtccacc-----gcc
+NM_205098. gg------------------ggagggaggggtggcggcgctgggagtgcaggaac--gcc
+                                                                       
+
+NM_0013640 ggaccagaagcctttgggtctgaagtgtctgtgagacctc--------------------
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ggaccagagtccttttggttggaagtgtctgggagccctc--------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ggaccagagtccttttggttggaagcatctgcgaaccctc--------------------
+KY307887.1 gggacagagtccttttggttggaagtatctgcgagccctc--------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. agaccagagttcttttggttggacagatctgtgagtcttc--------------------
+NM_017058. agaccagagttcttttggtcggacagatctgtgagacttc--------------------
+NM_205098. cgctgggagctctgccgacccgacctgtctgcggtcctccaacagtcggacgcagggagt
+                                                                       
+
+NM_0013640 ----acagaagagcacccctgggctccacttacctgcc----------------------
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ----gcacaagggcacgcctgggctcgacctccctgccca--------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ----acagaagggcaccccttggcctgacttccctgtcc---------------------
+KY307887.1 ----acagaagggcaccccttggcctgacttccctgccc---------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ----ccaggagagcacccttgggctctgctcgc---------------------------
+NM_017058. ----ccaggagagcacccttgggctctactca----------------------------
+NM_205098. gcctccagtctggcatctccatgtctgagctccgcggctcctgggacgcacagcagcaga
+                                                                       
+
+NM_0013640 ----------ccctgctccttcagggatggaggcaatggcggccagcacttccctgcctg
+AF354232.1 --------------------------atggaggcaatggcggccagcacttccctgcctg
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ---------accccgctccttcagggatggaggcgacggcagccagcacttccttacctg
+NM_0011639 --------------------------atggaggcgatggcagccagcacttccctgcctg
+NM_0011679 ----------ccctgctcctacagctatggaggcgactgcggccagcacttccttacctg
+KY307887.1 ----------ccctgctcctacagccatggaggcgactgcggccagcacttccttacctg
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ----------ccctgctccttcagggatggaggcaatggcagccagcacctccctgcctg
+NM_017058. ----------ccctgctccttcagggatggaggcaacagcggccagcacctccctgcccg
+NM_205098. gcatggcgtacctccccgacgcagacatggacaccgtggctgccagcacgtccctccccg
+                                                                       
+
+NM_0013640 acc---ctggagactttgaccggaacgtgccccggatctgtggggtgtgtggagaccgag
+AF354232.1 acc---ctggagacttcgaccggaatgtgccccggatctgtggggtgtgtggagatcgag
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 acc---ccggcgactttgaccggaatgtgccccggatctgcggggtgtgcggagaccgag
+NM_0011639 acc---ctggtgactttgaccggaatgtgccccggatctgtggggtgtgcggagaccgag
+NM_0011679 acc---ctggcgactttgaccggaacgtgccccggatctgtggggtgtgcggggaccgag
+KY307887.1 acc---ccggcgactttgaccggaacgtgccccggatctgcggggtgtgcggggaccgag
+KJ598804.1 ------------------------------------------------------------
+NM_009504. acc---ctggtgactttgaccggaatgtgcctcggatctgtggagtgtgtggagaccgag
+NM_017058. acc---ctggtgactttgaccggaacgtgccccggatctgtggagtgtgtggagaccgag
+NM_205098. acccggccggcgacttcgaccgcaacgtgccccgaatctgcggggtctgcggggacagag
+                                                                       
+
+NM_0013640 ccactggctttcacttcaatgctatgacctgtgaaggctgcaaaggcttcttcaggcgaa
+AF354232.1 ccacgggctttcacttcaatgctatgacctgtgaaggctgcaaaggcttcttcaggcgaa
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ccaccggcttccatttcaatgctatgacctgcgaaggctgcaaaggcttcttcagacgga
+NM_0011639 ccacaggctttcatttcaacgctatgacctgcgaaggctgcaaaggtttcttcaggcgaa
+NM_0011679 ccaccggcttccatttcaacgctatgacctgcgaaggctgcaaaggcttcttcaggcgga
+KY307887.1 ccaccggcttccatttcaacgctatgacctgcgaaggctgcaaaggcttcttcaggcgga
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ccacgggcttccacttcaacgctatgacctgtgaaggctgcaagggtttcttcaggcgga
+NM_017058. ccacaggcttccacttcaatgctatgacctgtgaaggctgcaaaggtttcttcaggcgga
+NM_205098. ccaccggcttccacttcaacgccatgacctgcgagggctgcaagggcttcttcaggagaa
+                                                                       
+
+NM_0013640 gcatgaagcggaaggcactattcacctgccccttcaacggggactgccgcatcaccaagg
+AF354232.1 gcatgaagcggaaggcactattcacctgccctttcaacggggactgccgcatcaccaagg
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 gcatgaagcgcaaggcgctgtttacctgtcccttcaatggagactgccgcatcaccaagg
+NM_0011639 gcatgaagcggaaggcgctgttcacctgtcccttcaacggggactgccgcatcaccaagg
+NM_0011679 gcatgaagcggaaggcgctgttcacctgtcccttcaatggagactgccgcatcaccaagg
+KY307887.1 gcatgaagcggaaggcgctcttcacctgtcccttcaacggagactgccgcatcaccaagg
+KJ598804.1 ------------------------------------------------------------
+NM_009504. gcatgaagcgcaaggccctgttcacctgccccttcaatggagattgccgcatcaccaagg
+NM_017058. gcatgaagcgcaaggccctgttcacctgtcccttcaatggagattgccgcatcaccaagg
+NM_205098. gcatgaagaggaaagcgatgttcacctgtccgttcaacggggactgcaaaatcaccaagg
+                                                                       
+
+NM_0013640 acaaccgacgccactgccaggcctgccggctcaaacgctgtgtggacatcggcatgatga
+AF354232.1 acaaccggcgccactgccaggcctgccggctcaaacgctgtgtggacatcggcatgatga
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 acaaccgccgccactgccaggcctgccggctcaagcgctgtgtggacatcggcatgatga
+NM_0011639 acaaccgccgccactgccaggcctgccgcctcaaacgctgtgtggacatcggcatgatga
+NM_0011679 acaaccgccgccactgccaggcctgccggctgaagcgctgtattgacatcggcatgatga
+KY307887.1 acaaccgccgccactgccaggcctgccggctcaagcgctgtattgacatcggcatgatga
+KJ598804.1 ------------------------------------------------------------
+NM_009504. acaaccggcgacactgccaggcctgccggctcaaacgctgcgtggacattggcatgatga
+NM_017058. acaaccggcgacactgccaggcctgccggctcaaacgctgtgtggacatcggcatgatga
+NM_205098. acaaccggcggcactgccaggcctgccggctgaagcgctgcgtggacattgggatgatga
+                                                                       
+
+NM_0013640 aggagttcattctgacagatgaggaagtgcagaggaagcgggagatgatcctgaagcgga
+AF354232.1 aggagttcatcctgacagatgaggaggtgcagaggaagcgggagatgatcctgaagcgga
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 aggagttcatcctgacggacgaggaggtgcagcgcaagcgggagatgatcctcaagcgga
+NM_0011639 aggagttcatcctgacagatgaggaggtgcagcggaagcgggagatgatcttgaaacgga
+NM_0011679 aggaattcatcctgactgatgaagaagtgcagcggaagcgggagatgatcctcaagcgga
+KY307887.1 aggaattcatcctgactgatgaagaggtgcagcggaaacgggagatgatcctcaagcgga
+KJ598804.1 ------------------------------------------------------------
+NM_009504. aggagttcatcctcacagatgaggaggtgcagcgtaagcgagagatgatcatgaagagga
+NM_017058. aggagttcatcctgacagatgaggaggtacagcgtaagagggagatgataatgaagagaa
+NM_205098. aggagttcatcctgacggacgaggaggtgcagaggaagcgtgagatgatcctgaagcgca
+                                                                       
+
+NM_0013640 aggaggaggaggccttgaaggacagtctgcggcccaagctgtctgaggagcagcagcgca
+AF354232.1 aggaggaggaggccttgaaggacagtctgcggcccaagctgtccgaggagcagcagcgca
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 aggaggaggaggccttgaaggacagtctgcggcctaagctgtcggaggagcagcagcgca
+NM_0011639 aggaggaggaggccttgaaggacagtctgcggcccaagctgtccgaggagcagcagagca
+NM_0011679 aggaggaggaggccttgaaggacagcctgcggccgaagctgtcagaggagcagcagcgca
+KY307887.1 aggaggaggaggccttgaaggacagcctgcggccgaagctgtcggaggagcagcagcgca
+KJ598804.1 ------------------------------------------------------------
+NM_009504. aggaggaagaggccttgaaggacagtctgaggcccaagctgtctgaggagcaacagcaca
+NM_017058. aagaggaagaggccttgaaggacagtctgaggcccaagctatctgaagaacaacagcaca
+NM_205098. aagaggaggaagcgctgaaggagagcctgaagcccaaactgtcggaggagcagcagaaag
+                                                                       
+
+NM_0013640 tcattgccatactgctggacgcccaccataagacctacgaccccacctactccgacttct
+AF354232.1 tcattgccatcctgctggacgcccaccataagacctacgaccccacctactccgacttct
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 tcatcgccatcctgctggacgcccaccacaagacctatgaccccacctatgctgacttcg
+NM_0011639 tcatcactatcctgctggacgcccaccacaagacctacgaccccacctacgctgactttg
+NM_0011679 tcatcaccaccctgctggaagcccaccacaagacctacgacgacacctactccgacttca
+KY307887.1 tcatcaccaccctgctggacgcccaccacaagacctacgacgacacctactccgacttca
+KJ598804.1 --------------------gcccaccacaagacctacgatgacacctactccgacttca
+NM_009504. ttatcgccatcctgctcgatgcccaccacaagacctacgaccccacctatgccgacttcc
+NM_017058. tcatagccatcctgctggacgcccaccacaagacctatgaccccacctacgctgacttca
+NM_205098. tcatcgacaccctcctggaggcccaccacaaaaccttcgacaccacatactccgacttca
+                                                                       
+
+NM_0013640 gccagttccggcctccagttcgtgtgaatgatggtggagggagccatccttccaggccca
+AF354232.1 gccagttccggcctccagttcgtgtgaatgatggtggagggagccatccttccaggccca
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 gccagttccggcctccggttcgcggggatgaggaggaagggaccctcccctccaggtctt
+NM_0011639 gccagttccggcctccagttcgcaggggtgagggtgaagggagctgttcctgggggcttt
+NM_0011679 gccagttccggcctccagttcgcaacagtgaggacgaggggaaccgtcctttgagg----
+KY307887.1 gccagttccggcctccagttcgcaaggatgaggacgaggggaactgtgcttcgagg----
+KJ598804.1 gccagttccgacctccagttcgcaaggatgaggaagaggggaaccatgcttcaagg----
+NM_009504. gggacttccggcctccaattcgtgcagacgtaagtacagggagctattctccaagg----
+NM_017058. gggacttccggcctccagttcgtgtggacggaagtacagggagctattctccaagg----
+NM_205098. acaagtttcggccccccgt--------------gagaagcaaattcagcagcagga-tgg
+                                                                       
+
+NM_0013640 actccagacacactcccagcttctctggggactcctcctc------------------ct
+AF354232.1 actcgagacacactcccagcttctctggggactcctcctc------------------ct
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 cctccgcgcatgcgcccagcttctccggaagctcgtcctc------------------tt
+NM_0011639 cctcaagacacatgcccagcgtctccggagactcatcttc------------------at
+NM_0011679 --tcgatactcacgcccagcttctctggaaactcatcctc------------------ct
+KY307887.1 --tcgatactcacgcccagcttctctggaaactcgtcctc------------------ct
+KJ598804.1 --tcgatactcactcccagcttctctggaaactcgtcgtc------------------ct
+NM_009504. --------cccacactcagcttctccggaga---ctcctc------------------ct
+NM_017058. --------cccacactcagcttctccgggaactcctcctc------------------ct
+NM_205098. caacgcactcctcctccgtcgtgtcccaggacttctcctcggaggactccaacgatgtct
+                                                                       
+
+NM_0013640 cctgctcagatcactgtatcacctcttcagacatgatggactcgtccagcttctccaatc
+AF354232.1 gctgctcagatcactatatcacctctccagacatgatggactcgtccagcttctccaacc
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 cctgctcagatcaatacacctcctctccagacacgatggagccagccagcttctcccacc
+NM_0011639 cctgctcagatccctgccttgtctctccagatgtggtggaaccgaccggcttctccaacc
+NM_0011679 cctgttcggatcactgtacctcctctccagacacaatggagccaaccagcttctccaacc
+KY307887.1 cctgttcggatcactatacctcctctccagacacaacggagccaaccagcttctccaacc
+KJ598804.1 cctgttcggatcactatacctcctctccagacacaacggagccaaccagcttttccaacc
+NM_009504. caaactctgatctgtacaccccctcactggacatgatggaaccggccagcttttccacga
+NM_017058. ccagctctgacctgtacaccacctcactagacatgatggaaccatccggcttttccaacc
+NM_205098. ttggctccgatgccttcgctgcattcccagagcccatggagccccagatgttttccaacc
+                                                                       
+
+NM_0013640 tggatctgagtgaagaagattcagatgacccttctgtgaccctagagctgtcccagctct
+AF354232.1 tggatctgagtgaagaagattcagatgacccttctctgactctagagctgtcccagcttt
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 tggatctgagcgaagaagactctgatgacccttctgtgaccctggacctgtcccagctct
+NM_0011639 tagatctgaatgaagaagactcagatgacccttctgtgaccctggacctgtcccagctct
+NM_0011679 aggatctgaatgaagaagactccgatgacccttctgtgaccctggacctgtcccagctct
+KY307887.1 agcatctgagtgaagaagactccgatgacccttctgtgaccctggacctgtcccagctct
+KJ598804.1 agcatcagagtgaagaagactccgatgacccttctgtgaccctggacctgtcccagctct
+NM_009504. tggatctgaatgaagaaggctccgatgacccctctgtgaccctggacctgtctccgctct
+NM_017058. tggatctgaacggagaggattctgatgacccgtctgtgactctggacctgtctcctctct
+NM_205098. tggacctctccgaggagagcgatgagagcccctccatgaacatcgagctgccccacctcc
+                                                                       
+
+NM_0013640 ccatgctgccccacctggctgacctggtcagttacagcatccaaaaggtcattggctttg
+AF354232.1 ccatgctgccccacctagctgacctggtcagttacagcatccagaaggtcattggctttg
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ccatgctgccccatctggctgacctggtcagttacagtatccaaaaggtcatcggctttg
+NM_0011639 ccatgctgccccacctggctgacctggtcagttacagcatccaaaaggtggtcggctttg
+NM_0011679 ccatgctgccccacctggctgacctggtcagttatagcatccagaaggtcatcggctttg
+KY307887.1 ccatgctgccccacctggctgacctggtcagttacagcatccaaaaggtcatcggctttg
+KJ598804.1 ccatgctgccccacctggctgacctggtcagttacagcatccaaaaggtcattggctttg
+NM_009504. ccatgctgccccacctggctgatcttgtcagttacagcatccaaaaggtcatcggctttg
+NM_017058. ccatgctgccccacctggctgaccttgtcagttacagcatccaaaaggtcatcggctttg
+NM_205098. ccatgctcccgcacctggccgacctggtcagctacagcatacagaaagtgatcggcttcg
+                                                                       
+
+NM_0013640 ctaagatgataccaggattcagagacctcacctctgaggaccagatcgtactgctgaagt
+AF354232.1 ctaagatgatcccaggattcagagacctcacctctgaggaccagatagtgctgctgaagt
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ccaagatgatcccagggttcagggacctcaccgctgaggaccagatcgtgctgctgaagt
+NM_0011639 ccaagatgatcccagggttcagagacctcacctctgaggaccagatcgtgctgctgaagt
+NM_0011679 ccaagatgatcccagggttcagagacctcacccctgaggaccagatcgtgctgctgaagt
+KY307887.1 ccaagatgatcccagggttcagagacctcaccgctgacgaccagatcgtgctgctgaagt
+KJ598804.1 ccaagatgatcccagggttcagagacctcaccgctgacgaccagatcgtgctgctgaagt
+NM_009504. ccaagatgatccctggcttcagggacctcacctctgatgaccagattgtcctgcttaagt
+NM_017058. ccaagatgatcccaggattcagggatctcacctccgatgaccagattgtcctgcttaagt
+NM_205098. ccaagatgatacccggattcagggatctgacggcagaggatcagattgccctgctgaaat
+                                                                       
+
+NM_0013640 caagtgccattgaggtcatcatgttgcgctccaatgagtccttcaccatggacgacatgt
+AF354232.1 caagtgccattgaggtcatcatgttacgctccaatgaatccttcaccatggacgacatgt
+KJ633275.1 -------------ggtcatcatgttgcgctccaaccagtccttcatcatggacgacatgt
+NM_0010974 caagtgccatcgaggtcatcatgctgcgctccaaccagtccttcaccatggacgacatgt
+NM_0011639 caagcgccattgaggtcatcatgttgcgctccaaccagtcattcaccatggacgacatgt
+NM_0011679 cgagtgccattgaagtcatcatgcttcgctccaaccagtccttcaccctggacgacatgt
+KY307887.1 cgagtgccattgaggtcatcatgctgcgctccaaccagtccttcaccctggacgacatgt
+KJ598804.1 cgagtgccattgaggtcatcatgctgcgctccaaccagtccttcaccctggacgacatgt
+NM_009504. caagtgccattgaggtgatcatgttgcgctccaaccagtcttttaccttggatgacatgt
+NM_017058. caagcgccattgaggtgatcatgttacgctccaaccagtctttcaccatggatgatatgt
+NM_205098. ccagcgccatcgaggtgatcatgctgcgctccaaccagtccttcaccatggaggacatgt
+                        .** ******.* ********. *.** **.*.* **** **.****
+
+NM_0013640 cctggacctgtggcaaccaagactacaagtaccgcgtcagtgacgtgaccaaagccggac
+AF354232.1 cctggacctgtggcaacccggactacaagtaccgcatcagtgacgtgaccaaagccggac
+KJ633275.1 cctggacctgtggcagcgaggactacaagtaccgcatcagtgatgtggccaaagctggac
+NM_0010974 cctggacctgtggcagccgggactacaagtaccaagtcagcgacgtggccaaagccggac
+NM_0011639 cttggacctgtggcagccaggactacaagtacaatgccagagatgtgacccaagctggac
+NM_0011679 cctggacctgtggcagcccggactacaagtaccaagtcagcgacgtgaccagagccggac
+KY307887.1 cctggacctgtggcagccaggactacaagtaccaagtcagcgacgtgaccagagccggac
+KJ598804.1 cctggacctgtggcagcccggactacaagtaccaagtcagcgacgtgaccagagctggac
+NM_009504. cctgggactgtggcagccaagactacaaatatgacatcactgatgtctccagagctgggc
+NM_017058. cctgggactgtggcagccaggactacaagtacgacgtcaccgatgtctccaaagctgggc
+NM_205098. cctggacctgcggaagcaatgacttcaagtacaaagtcagcgatgtcacccaagccggac
+           *.***. ***.** *.*   **** ***.**. . ..**  **.**  ** .***.**.*
+
+NM_0013640 acagcctggagctgattgagcccctcatcaagttccaggtgggactgaagaagctgaact
+AF354232.1 acaacctggagctgattgagcccctcatcaagttccaggtgggactgaagaagctgaatt
+KJ633275.1 acagcctggagctgattgagcccctcatcaagttccaggtggggctgaagaagctgaact
+NM_0010974 acagcctggagctgatcgagcccctcatcaagttccaggtggggctgaagaagctgaacc
+NM_0011639 acagcctggagctgatcgagcccctcatcaagttccaggtggggctgaagaagctgaact
+NM_0011679 acagcctggagctcattgagcccctcatcaagttccaggtggggctgaagaagctgaatt
+KY307887.1 acagcctggagctcatcgagcccctcatcaagttccaggtggggctgaagaagctgaatt
+KJ598804.1 acagcctggagctcatcgagcccctcatcaagttccaggtggggctgaagaagctgaatt
+NM_009504. acaccctggagctgatcgaacccctcataaagttccaggtggggctgaagaagctgaacc
+NM_017058. acaccctggagctgatcgagcccctcataaagttccaggtggggctgaagaagctgaact
+NM_205098. acagcatggacctcctggagccgctcgtgaagttccaggtgggcttaaagaagctgaacc
+           *** * **** **  * **.** ***.* ************** .*.***********..
+
+NM_0013640 tgcatgaggaggagcatgtcctgctcatggccatctgcatcgtctccccagatcgtcctg
+AF354232.1 tgcatgaggaggagcatgttctgctcatggccatctgcatcgtctccccagatcgtcccg
+KJ633275.1 tgcacgaggaggagcatgtcctactcatggccatctgcatcgtctccccagaccgtcccg
+NM_0010974 tgcacgaggaggagcacgtgctgctcatggccatctgcatcgtctccccagaccgtcccg
+NM_0011639 tgcatgaggaggaacatgtcctcctcatggccatctgcattgtctccccagaccgtcctg
+NM_0011679 tgcacgaagaggaacatgtcctgctcatggccatctgcattgtctccccagaccgccctg
+KY307887.1 tgcacgaagaggaacatgtcctgctcatggccatctgcattgtctccccagaccgccccg
+KJ598804.1 tgcacgaagaggaacatgtcctgctcatggccatctgcattgtctccccagaccgccccg
+NM_009504. tccatgaggaagaacatgtgctgctcatggccatctgcattgtctccccagaccgacctg
+NM_017058. tacatgaggaagagcatgtccttctcatggccatctgcattgtctccccggaccgacctg
+NM_205098. ttcacgaagaagagcacgtgctgctcatggccatctgcatcctgtccccagatcggcccg
+           * **.**.**.**.**.** ** *****************. * *****.**.** **.*
+
+NM_0013640 gggtgcaggacgccgcgctgattgaggccatccaggaccgcctgtccaacacactgcaga
+AF354232.1 gggtgcaggatgccgcgctgatcgaggccatccaggaccgcctgtccaacacgttgcaga
+KJ633275.1 gggtgcaggatgctgccctggttgaggccatccaggaccgcctgtccaacacactgcaga
+NM_0010974 gggtgcaggaccccacgctgatcgaggccatccaggaccgcctgtccaacacgctgcaga
+NM_0011639 gggtacaggaccccgcactgatcgaggccatccaggaccgcctgtccaacacactgcaga
+NM_0011679 gagtgcaggacgcagcactggtcgaggccatccaggaccgcctgtccaacacgctgcaga
+KY307887.1 gagtgcaggacgccgcgctggtcgaggccatccaggaccgcctgtccaacacgctgcaga
+KJ598804.1 gagtgcaggacgccgcgctggtcgaggccatccaggaccgcctgtccaacacgctgcgga
+NM_009504. gggtacaggatgctaagctggttgaagccattcaggaccgcctatccaacacactgcaga
+NM_017058. gggtccaggacgccaagctggtggaagccattcaggaccgcctatccaacacgctgcaga
+NM_205098. gcgttcaggacacctccctggtggagtccatccaggaccgcctctcggacatcctccaga
+           * ** *****. *    ***.* **. ****.*********** ** .***. .* *.**
+
+NM_0013640 cgtacatccgctgccgccacccgcccccgggcagccacctgctctatgccaagatgatcc
+AF354232.1 cctacatccgctgccgccacccacccccgggcagccacctgctctatgccaagatgatcc
+KJ633275.1 cctacatccgctgccgccacccgcccccgggcagccacctgctctacgccaagatgatcc
+NM_0010974 cctacatccgctgccgccacccgcccccgggcagccacctgctctacgccaagatgatcc
+NM_0011639 cctacatcagctgccgccacccacccccgggcagccaccagctctatgccaagatgatcc
+NM_0011679 cctacatccgctgccgccacccgcccccaggcagccacctgctctacgccaagatgatcc
+KY307887.1 cctacatccgctgccgccacccgcccccaggcagccacctgctctatgccaagatgatcc
+KJ598804.1 cctacatccgctgccgccacccacccccaggcagccacctgctctatgccaagatgatcc
+NM_009504. cctacatccgctgccgccacccgcccccgggcagccaccagctctacgccaagatgatcc
+NM_017058. cctacatccgctgccgccacccgcccccaggcagccaccagctctatgccaagatgatcc
+NM_205098. cctacatccgctgcaggcaccccccgcccggcagccgcctgctgtacgccaagatgatcc
+           * ****** ***** * ***** ** ** *******.** *** **.*************
+
+NM_0013640 agaagctagccgacctgcgcagcctcaatgaggagcactccaagcagtaccgctgcctct
+AF354232.1 agaagctggccgacttgcgcagcctcaatgaggagcactccaagcagtaccgctgcctct
+KJ633275.1 agaagctggctgacctgcgtagcctcaatgaggagca-----------------------
+NM_0010974 agaagctggccgacctgcgtagcctgaacgaggagcactccaagcagtaccgctgcctct
+NM_0011639 agaagctggccgacctgcgcagcctcaatgaggagcactctaagcagtaccgctgcctct
+NM_0011679 agaagctggcggacctgcgcagcctgaacgaggagcactccaagcagtaccgctgcctct
+KY307887.1 agaagctggcggacctgcgcagcctgaacgaggagcactccaagcagtaccgctgcctct
+KJ598804.1 agaagctggcggacctgcgcagcctgaacgaggagcactccaagcagtaccactgcctct
+NM_009504. agaagctggctgacctgcgaagcctcaatgaggagcactccaaacagtaccgttccctct
+NM_017058. agaaactggccgacctgcggagcctcaacgaggaacactccaaacaataccgctccctct
+NM_205098. agaagctggccgacctgcgcagcctcaacgaggagcactccaagcagtaccgctgcctct
+           ****.**.** ***.**** ***** **.*****.**                       
+
+NM_0013640 ccttccagcctgagtgcagcatgaagctaacgccccttgtgctcgaagtgtttggcaatg
+AF354232.1 ccttccagcctgagagcagcatgaagctcacgcccctcgtgctcgaagtgtttggcaatg
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ccttccagcccgagtgcagcatgaagctcacaccccttgtgcttgaggtgtttggcaacg
+NM_0011639 ccttccagcctgacagcagcatgaagctcacgcccctcgtgctcgaggtgtttggcaacg
+NM_0011679 ccttccagcccgagtccagcatgaagctcacacccctcctgttcgaggtgtttggcaacg
+KY307887.1 ccttccagcccgagtccagcacgaagctcacacccctcctgctcgaggtgtttggcaacg
+KJ598804.1 ccttccagcccgagtccagcatgaagctcacacccctcctgctcgaggtgtttggcaacg
+NM_009504. ccttccagccggagaacagcatgaagctcacaccccttgtgctagaggtgttcggcaatg
+NM_017058. ccttccagcccgagaatagcatgaagctcacaccccttgtgctggaggtgttcggcaatg
+NM_205098. ccttccagcccgagcacagcatgcagctcacgcctctggtgctcgaggtcttcggcaacg
+                                                                       
+
+NM_0013640 agatctcctgactaggacagcctgtggcggtgcctgggt-----ggggctgctcctccag
+AF354232.1 aaatctcctga-------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 agatctcctgactagggcagcctgcggtggcacccggcc-----ggggctgcctctctgg
+NM_0011639 agatctcctga-------------------------------------------------
+NM_0011679 agatctcctgactctggcggcctgcactggcgcctggga-----ggggcagcctctccag
+KY307887.1 agatctcctgactctggcggcctgtactggcgcctggga-----agggcggcctctccag
+KJ598804.1 agatctcctga-------------------------------------------------
+NM_009504. agatctcctgaccagggtggcctgcagtggtgcctgggt-----agggccgctcctctgg
+NM_017058. agatctcctgaccagggtggcccacagtggtgcctgggt-----agggccgctcctccag
+NM_205098. agatctcctgattccagccgcggctttgggcacccgcgtgtaaagggataagtcagcctg
+                                                                       
+
+NM_0013640 ggccacgtg-------------------ccaggcccggggctgg----------------
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ggccct------------------gcgcccaggcctggggtggg----------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ggccgg------------------gcacccaggcctggggctgg----------------
+KY307887.1 ggctgg------------------gcactcaggcctggggctgg----------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ggccct------------------gtgcccaggccctgggctgg----------------
+NM_017058. agccct------------------gtgcccaggccctgggctgg----------------
+NM_205098. ggccccctggaggcagcgagaggagggctgcgaccctgggaggaggctgtacattgtttg
+                                                                       
+
+NM_0013640 ---cggctactcagcagccctcctcaccccgtct--------------ggggtt------
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ---cgtctggccagcagccctccccaccccctct--------------ggagtt------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ---cggctgcccagcaggccttcccacacctgct--------------ggggtt------
+KY307887.1 ---tggctgcccagcagccctttccacacctgct--------------ggggtt------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ---ttgcagcccagcagtgcctcctgcccctcct--------------ggagtt------
+NM_017058. ---ttgcagcccagcagtgcctcctgccctttct--------------ggagtt------
+NM_205098. gtttcacactactgcaggtcctgctttcttttcttagccacggcagccgaggtttgctcg
+                                                                       
+
+NM_0013640 ---cagcccctcctctgccacctcccctatccacccagcccattctctctcctgtccaac
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ---cagcccctcctctgccacctcccctccccgcctggcccatcctctctcctg------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ---catcccctcctctcctgcctcccctccccggctggcccgtcctctctcctgccc---
+KY307887.1 ---c--------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ---cagctcctcctctgccgtggcccgtgtctgtctggctcatcctttctcctgcccagc
+NM_017058. ---cagtccttcctctgccatggcctctgtctgtctgcctcatcctttctcctgcccagc
+NM_205098. ctgcagacccagctctgtgcgtttcccccccttccgggagtgtttttttcactcatctgc
+                                                                       
+
+NM_0013640 ctaac---------ccctttcctgcgggctttt-----ccccggtcccttgagac----c
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ---------------------ccacaggctgct------cccactcccacgagac----c
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ctcacacctgatctccctttcctgtagactgcaggttgctcctgtcccttgagat----c
+NM_017058. ctaacacctggtctccctttcctgtagacctcgagttgctcctgtctcttgagac----c
+NM_205098. --aagagctgacttatccct-ttatggacgttttgaggctgggctgccttgaaccacttc
+                                                                       
+
+NM_0013640 tcagccatgaggagttgctgtttgtttgacaaagaaacccaagt---------------g
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 tccgttatgaggagttgctgtttatttgacagagaaactcaagt---------------g
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. tcagttaggagacactgctgtttatttgacaaagaaactcaagtgtgggatggggggaag
+NM_017058. tcagttaggagaggctgctgtttatctgacaaaggaactcaatt---------------g
+NM_205098. tttctgaccagaaaccggggctgctcggaaggagaggctcaggttttgca-----gattc
+                                                                       
+
+NM_0013640 ggggcagagggcagaggctggaggc--agggccttgc-ccagagatgcctccaccgctgc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ggggcagagggcagaggctgaggac-------------ccggggacgcccccgctgctcc
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. agggtagagggcagaggctgaaggcagagagctctgcctagggaatgcctccgccat---
+NM_017058. gggatagagggcaggggctgaaggc--agaactctgcctaggggatgcctccaccac---
+NM_205098. gtggcaatggggaaccatcgatggca-tctgttgagcctgagggacccctgcgctcaccc
+                                                                       
+
+NM_0013640 c------taagtggctgctgactgatgttgagggaa----cagacaggagaaatgcatcc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 a------gaagcggctgctg-gtgatgccgagggaaaaggcaggcaggagaaata-gccc
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. --------aaggggccactg-cttgtgtcaagggag---gcaggcagaagagatgagtcc
+NM_017058. --------aaggggctgctg-cttgtgtcaagggag---gcaggcagaagagacgcattc
+NM_205098. ccaatgggaaagg---------cgatgctgatggaat-tgcacaccccgga---------
+                                                                       
+
+NM_0013640 attcctcagggaca----gagacacctgcacctcc-ccccactgcaggccccgcttgtcc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 cttcctcagggaca----gagacacccgtacctccaccccactccaggcccc-cgtgtcc
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. attcctcagggac------aggtacctgtacctac-cccgattccaaaccta-cctg---
+NM_017058. actcctcagggac------aggtacctgcacctcc-cctcactccagcccta-cctgccc
+NM_205098. tctctgcaggaaaatgctgaggc-------------tgctcctccgagcccc------gc
+                                                                       
+
+NM_0013640 agcgcctagtggggtctccctct--cctgcctactcacgataaataatcggcccacagct
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 agagcctggtgggatcttccttcttccgcctcatccacggcacgt-actgacccac----
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ----cctggtgagaactcctgcc--cctgcctacaaagggtacacaacctacccatcatc
+NM_017058. aaagcctggtgagaaatctggcc--cctgcctgcgaagggtacacaacctacccatcatc
+NM_205098. agacaatggtgggaggtt------------------------------------------
+                                                                       
+
+NM_0013640 cc-----caccccacccccttcag-tgcccaccaacatcccattgccctggttatattct
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 -------agccccacctcatcctgctgccagtctgcgctgttccgtcc------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. cctagtgtgtcccgtctcctcctgccacctgtctgtattattctgacc------------
+NM_017058. cctactgtgtcccgtctcatcctgccgcctgtctgtgttattctgacc------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 cacgggcagtagctgtggtgaggtgggttttcttcccatcactggagcaccaggcacgaa
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ccaggcagcgagccaccaggggg----------ccttggccct-----------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. caggggagtcagtcactgtgggg--cctccttcctctgctggt-----------------
+NM_017058. cgggggagtaggtcactgagggg--cctccttcctctgccttt-----------------
+NM_205098. -ggagagggaaaccacagccaggaa----------cagccggc-----------------
+                                                                       
+
+NM_0013640 cccacctgctgagagacccaaggaggaaaaacagacaaaaacagcctcacagaag-----
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 -ctgcctgtccaggacactcactgccaaggatgaccaaaaccagggtgacaaaggtcaca
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. -atactcat-ggactcattcact-gccaagatgaccaaatactctaccacactaa-----
+NM_017058. -atactcacggggctcactcact-gccaagatgaccaaatacactaccacacgaa-----
+NM_205098. -cgggctgccgtgcgttcccagc-actactgccaccacaatcagccccactgctg-----
+                                                                       
+
+NM_0013640 aatatgacagctgtccctg----------------tcaccaagctcacagttcctcgccc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 aat-------ccatctctgctgcccaaagggcacatgcctaagccctccgtgcccacctt
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. -----------------------ccaaggagc-cctccctagccctgcagttcccacctt
+NM_017058. -----------------------ccaaggagcactcacccagccctgcagttcccacctt
+NM_205098. -----------------------acag--------catcctgtgaggctgttgtcacctt
+                                                                       
+
+NM_0013640 tgggtct-----------------------------------------------------
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. tgaggttttgttatggtaagtccccaagtccagtacctctggtaaagtggacttcttccc
+NM_017058. tgaggttttgccatgggaa-----------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 ------------------------------------------------------------
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ccatccctagaaccagggacctagaaaccaccattggaaagtccccagggaatggaatac
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 -------------------------------------------aaggggttggttgaggt
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. agagcccaagcaatgaggagcaggcaaagccagcctcccagcaggacaacaaatggaggt
+NM_017058. ------------------------------------------------------------
+NM_205098. ----------------------aacgaggccagcc----------ggagctaattggg--
+                                                                       
+
+NM_0013640 ----------------------------------------------------ggaagccc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ---------------------------------------------------------cct
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ccatctatctttgtcaccaagctgaggtgtctgaagc----ctggagctactgggacccc
+NM_017058. ------------------------------------------------------------
+NM_205098. -----------------catgctgaggtttcctgcgcgatgctggagctccggagggtgc
+                                                                       
+
+NM_0013640 tccttccacgga-------tccatgtagcaggactgaattgtccccagtttgcagaaaag
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ctcatccct--------------------atggtaacgttgtccccgg------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. tcctctcctctatagctattagatgtgtcaggaccaagttgaccccaactttcagaacgt
+NM_017058. ------------------------------------------------------------
+NM_205098. cccatccct----------------------------gctggccccac------------
+                                                                       
+
+NM_0013640 cacctgcc--gacctcgt-cctccccctgccagtgccttacctcctgcccaggagagcca
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ccctagccctgtcttcatcccttcccctgccagtgccttaccacctacccaggaaagcag
+NM_017058. ------------------------------------------------------------
+NM_205098. -----------------------------------tgaagccacctctgcagggtggtgg
+                                                                       
+
+NM_0013640 gccctc-------cctgtcctc---ctcggatcaccgagagtagccgagagcctg-----
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. gtccttgagccacccaggccttacaatttgatcaccaagagtatcccagaagttatctca
+NM_017058. ------------------------------------------------------------
+NM_205098. cccttc------------------------------------------------------
+                                                                       
+
+NM_0013640 ----ctcccccaccccctccccaggggagagggtctggag-----------------aag
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ----------------------------aaggagctgtgg--------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. gcttctccatcacccccactt------ggagcaacagtgtcacatctccaccccacttac
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 cagtgagccgcatcttctccatctggcagggtgggatggaggagaagaattttcagaccc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ---taagacaggctgcctccccacggctggggacactggcccagaa--------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. caataaaagctaccctttccacccagtggaatgggatggcagaaaacca-----------
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 cagcggctgagtcatgatctccctgccgcctcaatgtggttgcaaggccgctgttcaccc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ---------------------acagtggcccagatggacctccaagtctgcttttcaggt
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 acagggctaagagctagcgctgccgcaccccagagtgtgggaagggagagcggggcagtc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. gtaaagccagacatgagctct--cccacctcagggaaaaggtagagggggcaggttag--
+NM_017058. ------------------------------------------------------------
+NM_205098. --------------------------------aggaggggacaatgggagcag-------
+                                                                       
+
+NM_0013640 tcgggtggctagtcagagagagtgtttgggggttccgtgatgtagggtaaggtgccttct
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. -----------------------aacttgtggtacagtgatattggtccagttcctcctg
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 tattctcactccaccacccaaaagtcaaaaggtgcct--------gtgaggcaggggcgg
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ---------cccacctgccaagaggc--------------------ccaggagggaagag
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. actcttcactctaccacccaaaagtcaatgtagacctacgaaacggtcaggtgatgggct
+NM_017058. ------------------------------------------------------------
+NM_205098. -----------caccgccgtgaggacagcgtt----------------------------
+                                                                       
+
+NM_0013640 agtgatacaacttcaagtgc----atgctctctgcagccagcccagcccagctggtggga
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 agc---------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. agggacgtatcttcaaactccatttcttcctctgtag-tagcccagtccaggactttgga
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 agcgtctgtccgtttactccaaggtggggtctttgtgagagtgagctgtaggtgtgc---
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. accctggtctcattcaccccaaatatacttcttgctgatcatgcgttgtgggggtgtggg
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 gggaccggtacagaaagg----cgttcttcgaggtggatcacagaggcttcttcagatca
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 agggcccaggcgggggga------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. gggacccatgcagaggaggttctcttcataagggggactcacagaaggaccttccagtga
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 gtgcttgagtttggggaatgcggccgcattccctgagtcacca--ggaatgttaaagtca
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ---------tttgggggaggcaggcacat-------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. atgtttg-acctagggaatgcagccacact---ggaagcaccaatagagggctaaggtca
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 gtgggaacgtgactgccccaactcctggaagctgtgtccttgcacctgcatccgtagttc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. gacggagcatggccccacgagccccag-----------------------------attc
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 cctgaaaacccagagaggaatcagacttcacactgcaagag-ccttggtgtccacctggc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 -------------------------------------------------------ccagc
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. cctgaaaatcctgagatcaatcacatttaacatcagaagaacccttagtgtccacctggc
+NM_017058. ------------------------------------------------------------
+NM_205098. ----gggaccctgaaacgca----------------------------------------
+                                                                       
+
+NM_0013640 cccatgtctctcagaattcttcaggtggaaaaacatctgaaagccacgttcct-tactgc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ctcatg------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. cctatgtttcccagaattc----aagcggaaaacatctgagaatggctttcccatattgc
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 agaatagcatatatatcgcttaatcttaaatttattagatatgagttgttttcagactca
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. attacggcatgcagaaggctttattttaaagtcattccatcagaggtgttctcagaatta
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 gactccatttgtattatagtctaatatacagggtagcaggtaccactgatttggagatat
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. gaccccacctgtactgtgttctaacactgagggtggtggcacctga---ttcagagcagt
+NM_017058. ------------------------------------------------------------
+NM_205098. ---------------------------gaggagcagcgggagctg---------------
+                                                                       
+
+NM_0013640 ttatggggggagaacttacattgtgaaacttctgtacattaattattattgctgttgtta
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. gtgtgtgtg------------tgtgaaaatactgtatattaatgattattgttactgcac
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 tttt--------------------acaagggtctagggagagacccttgtttgattttag
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------gaagagtggtagacagaggcctc-------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. acacacacacatacaaaaaaaaaaaaaaaaccctagagaaagaccttt----gattttag
+NM_017058. ------------------------------------------------------------
+NM_205098. --------------------------agcgccttggagggacccc---------------
+                                                                       
+
+NM_0013640 ctgcagaacgtattggtccagcttgctcttcagtgggagaaaacacttgtaagttgctaa
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. cagcagaacacattgatctggcttactactcaacaggagggaaagtctgaaagttgataa
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 acgag-tcaatcccctcattcaggaaaactga---cagaggagggcgtgactcacccaag
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. gctagttcgactcctttataatgagaacctgacatcagaggagagtgtgatttacctggg
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 catatataactagctagaagtgggccaggacaggcccggcgcggtggctcacgcctgtaa
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ctcatataatt-------------------------------------------------
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 tcccagcagtttgggaggtcgaggtaggtggatcacctgaggtcgggagttcgagaccaa
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ------------------------------------------------------------
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 cctgaccaacatggagaaaccctgtctctattaaaaatacaaaaaaaaaaaaaaaaaaaa
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 -------------------acctgtcct--------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. -----------------ag-----------------------------------------
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 tagccgggcatggtggcgcaagcctgtaatcccagctactcaggaggctgaggcagaaga
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ------------------------------------------------------------
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 attgaacccaggaggtggaggttgcagtgagctgagatcgtgccgttactctccaacctg
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 -----------gtggtggag---------------------cccgtggctctgcagcctg
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ------------------------------------------aagcatctccaggcctgg
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------gggcagcaccgtggccgg
+                                                                       
+
+NM_0013640 gacaacaagagcgaaactccgtcttagaagtggaccaggacaggaccagattttggagtc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ga-------------------tctgagggggtagccaag---------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. agaaa----------------------------------a-----------tttgaactt
+NM_017058. ------------------------------------------------------------
+NM_205098. ggacacg-----------caa---------------------------------------
+                                                                       
+
+NM_0013640 atggtccggtgtccttttcactacaccatgtttgagctcagacccccactctcattcccc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 -----------------------------------gcgggagttctccttctgacaaccc
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. atggtcccgggctgct------------------ttgtagtgagcctgtttccactgctc
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------tgggcacggccccctgcactgcat
+                                                                       
+
+NM_0013640 aggtggctgacccagtccctgggggaagccctggatttcagaaagagcaagtctggatct
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 acatggc-----------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. tggtagctgagccaggctat-gaggaaaccctggatatcagca----taaacctatgtct
+NM_017058. ------------------------------------------------------------
+NM_205098. ggacagc-----------------------------------------------------
+                                                                       
+
+NM_0013640 gggaccctttccttccttccctggcttgtaactccaccaacccatcagaaggagaaggaa
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. gggactacgatcccttttccctgggtaataaactcagccacccatcctaaggaggcaagc
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 ggagactcacctctgcctcaatgtgaatcagaccctaccccaccacgatgtggccctggc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. a---------cttggcctc--tttgagtgagacttggcttta------------------
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 ctgctgggctctccacctcagccttggataatgctgttgcctcatctataacatgcattt
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. -----ggactctctgcatcagccttg-------------------------tgtgcatca
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 gtctttgtaatgtcaccaccttcccagctctccctctggccctgccttcttcggggaact
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ggcactggaaagcctctgtcttcccagcccttgcctc--tccaggaaactccacaggcct
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 cctggaaatatcagttactcagccc-tgggccccaccacctaggccactcctccaaagga
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ccagagaataccagtttctcagcccaaggggtccatcactgaga--agtgcccaaaggga
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 agtctaggagctgggaggaaaagaaaagaggggaaaatgagtttttatggggctgaacgg
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------aagactgaacgg
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. agtcagggagctgggaggaaaagacagcaggaccaagtaggattc--cgaagccgaactg
+NM_017058. ------------------------------------------------------------
+NM_205098. -----ggggggtg-----------------------------------gggaccgtgcag
+                                                                       
+
+NM_0013640 ggagaaaaggtcatcatcgattctactttagaatgagagtgtgaaatagacatttgtaaa
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 gca---------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ggagagaacagcatcatctatttttattctgaat--------------g-----tacaaa
+NM_017058. ------------------------------------------------------------
+NM_205098. gcag---------------------------------------------tccgacccggg
+                                                                       
+
+NM_0013640 tgtaaaacttttaaggtatatcattataactgaaggagaaggtgccccaaaatgcaagat
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ggcagggccttgaaagagc-tcacacttccgaggcggaaatgggtaccaaaatgagaga-
+NM_017058. ------------------------------------------------------------
+NM_205098. ggcagtg-----------------------------------------------------
+                                                                       
+
+NM_0013640 tttccacaagattcccagagacaggaaaatcctctggctggctaactggaagcatgtagg
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 -------------cccaggctcagaga---------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. --tcagcaagatttcccaagataggagaatcctcctgctgcctgcgtgggagaaagtagg
+NM_017058. ------------------------------------------------------------
+NM_205098. -------------cccggggatgggcg--------------cctcgcggggggcagcggg
+                                                                       
+
+NM_0013640 ---agaatccaagcgaggtcaacagagaaggcaggaatgtgtggcagatttagtgaaagc
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ggaggagtccaaaccaggccaccagagatggttgagataaatgacaaatctggtggaagt
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 tagagatatggcagcgaaaggatgtaaacagtgcctgctgaatgatttccaaagagaaa-
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. cagacat------------ggctctaa--agagcttcctaagagacttcccgagagagag
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 --aaaagt--------------ttgccagaagtttgtcaagtcaaccaatgtagaaagct
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 ------------------------------------------------------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. acaaaagtgtttgtttgttttgtttccaggagcttgtcaaataaaccaatg-aaaaagct
+NM_017058. ------------------------------------------------------------
+NM_205098. ----------------gctccatctccg--------------------------------
+                                                                       
+
+NM_0013640 ttgcttatggtaataaaaatggctcatacttatatagcacttactttgttgcaagtactg
+AF354232.1 ------------------------------------------------------------
+KJ633275.1 ------------------------------------------------------------
+NM_0010974 -----------------------------------agcgctgactct-------------
+NM_0011639 ------------------------------------------------------------
+NM_0011679 ------------------------------------------------------------
+KY307887.1 ------------------------------------------------------------
+KJ598804.1 ------------------------------------------------------------
+NM_009504. ttgccgatgataataaaagatgctcacactttcatagcgcttgctacgtgacaagtaccg
+NM_017058. ------------------------------------------------------------
+NM_205098. ------------------------------------------------------------
+                                                                       
+
+NM_0013640 ctgtaaataaatgctttatgcaaacca-a
+AF354232.1 -----------------------------
+KJ633275.1 -----------------------------
+NM_0010974 -----------------------------
+NM_0011639 -----------------------------
+NM_0011679 -----------------------------
+KY307887.1 -----------------------------
+KJ598804.1 -----------------------------
+NM_009504. ctgtaaataaatgcctcatgaaaacc---
+NM_017058. -----------------------------
+NM_205098. -tgcgaataaacgtggcctgggagcagca
+                                        
